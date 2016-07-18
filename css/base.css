@@ -179,6 +179,14 @@
 	background-position:-5px 20px;
 }
 /*@media */
+@media (max-width: 1025px) {
+	.pilopaga .views-slideshow-cycle-main-frame{
+		height: 250px!important;
+	}
+	.pilopaga .pilopaga-slideshow .view-content{
+		height:250px;
+	}
+}
 @media (max-width: 780px) {
 	.pilopaga .pane-menu-menu-ser-pilo-paga ul li,.pilopaga .pane-menu-menu-ser-pilo-paga ul li:first-child{
 		width:100%;
