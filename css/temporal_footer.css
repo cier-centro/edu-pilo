@@ -1,0 +1,150 @@
+.pilopaga .pilo-friends .pilo-friends-title {
+		display: flex;
+		align-items: center;
+}
+.pilopaga .pilo-friends h2 {
+		color: #5B5B5F !important;
+		border-bottom: 3px solid #5B5B5F;
+}
+.pilopaga .pilo-friends span{
+    width: 50px;
+    height: 50px;
+    display: block;
+    float: left;
+		margin: 0;
+		background: url('../img/title-icons.png');
+		margin: 0 15px;
+}
+.pilopaga .pilo-friends .pilo-friends-icon {
+    background-position: 0px -250px !important;
+}
+.pilopaga .pilo-friends h5 {
+		color: #848388 !important;
+		border: 3px solid #848388;
+		padding: 10px;
+		text-align: center;
+		margin: 15px auto;
+		display: table;
+		font-size: 13px;
+}
+.pilopaga .pilo-friends .row.friends-logos, .pilopaga .pilo-friends h2, .pilopaga .footer div {
+		padding: 0;
+		margin: 0;
+}
+.pilopaga .pilo-friends .friends-logos div {
+		height: 70px;
+		margin: 10px 0;
+}
+.pilopaga .pilo-friends .icetex-logo {
+		background: url('../img/icetex-logo.png') no-repeat center center / contain;
+}
+.pilopaga .pilo-friends .dnp-logo {
+		background: url('../img/dnp-logo.png') no-repeat center center / contain;
+}
+.pilopaga .pilo-friends .dps-logo {
+		background: url('../img/dps-logo.png') no-repeat center center / contain;
+}
+.pilopaga .pilo-friends .ies-logo {
+		background: url('../img/ies-logo.png') no-repeat center center / contain;
+}
+.pilopaga .pilo-friends .brep-logo {
+		background: url('../img/brep-logo.png') no-repeat center center / contain;
+}
+.pilopaga #sub_footer {
+		display: none;
+}
+.pilopaga .footer {
+    background-color: white;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+		height: auto !important;
+    background-color: white !important;
+    border-top: 1px solid #C8D2D7;
+}
+.pilopaga .footer a, .pilopaga .footer p {
+		color: #5B5B5F !important;
+}
+.pilopaga .footer a {
+		text-decoration: underline;
+		margin-left: 25px;
+}
+.pilopaga .footer .container-fluid p {
+		padding-left: 15px;
+		font-size: 13px;
+}
+.pilopaga .footer .social-networks a {
+    width: 65px;
+    height: 65px;
+    display: block;
+    float: left;
+		margin: 0;
+		background: url('../img/social-networks-icons.png');
+}
+.pilopaga .footer .facebook-icon {
+    background-position: 0px 0px !important;
+}
+.pilopaga .footer .twitter-icon {
+    background-position: -71px 0px !important;
+}
+.pilopaga .footer .youtube-icon {
+    background-position: -140px 0px !important;
+}
+.pilopaga .footer .instagram-icon {
+    background-position: -208px 0px !important;
+}
+.pilopaga .footer .right-links, .pilopaga .footer .right-logos {
+		padding-right: 15px;
+}
+.pilopaga .footer .right-logos {
+    display: flex;
+    align-items: center;
+    float: right !important;
+}
+.pilopaga .footer .right-logos div {
+		height: 70px;
+}
+.pilopaga .footer .mineducacion-logo {
+		height: 40px !important;
+}
+.pilopaga .footer .serpilofooter-logo {
+		background: url('../img/serpilopaga-footer-icon.png') no-repeat 10% center / contain;
+}
+.pilopaga .footer .mineducacion-logo {
+    background: url('../img/mineducacion-logo.png') no-repeat center center / contain;
+}
+.pilopaga .footer .nuevo-pais-logo {
+    background: url('../img/presidencia-logo.png') no-repeat 90% center / contain;
+}
+.pilopaga .footer .bottom-links {
+		padding: 25px 0 20px;
+}
+@media (max-width: 991px){
+	.pilopaga .pilo-friends h5 {
+		margin: 18px;
+	}
+	.pilopaga .footer .social-networks, .pilopaga .footer .bottom-links {
+		text-align: center;
+	}
+	.pilopaga .footer .social-networks a, .pilopaga .footer .right-links a {
+		float: none;
+		display: inline-block;
+	}
+	.pilopaga .footer .social-networks p {
+		margin: 15px 0 20px !important;
+	}
+	.pilopaga .footer .right-logos div {
+		background-position: center;
+	}
+	.pilopaga .footer .right-links, .pilopaga .footer .right-logos {
+			padding: 0 15px;
+	}
+}
+@media (min-width: 992px){
+	.pilopaga .pilo-friends .friends-logos div:first-child {
+			margin-left: 2%;
+	}
+	.pilopaga .footer .container-fluid .row {
+		display: flex;
+		align-items: center;
+	}
+}
