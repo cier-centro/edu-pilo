@@ -187,7 +187,9 @@
 	width: 60%;
 	display:inline-block;
 }
-
+.pilopaga .panel-separator{
+	display:none;
+}
 /*@media */
 @media (max-width: 1025px) {
 	.pilopaga .views-slideshow-cycle-main-frame{
