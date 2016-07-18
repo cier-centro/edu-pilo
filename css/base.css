@@ -185,6 +185,12 @@
 	}
 	.pilopaga .pilopaga-slideshow .view-content{
 		height:250px;
+		margin-bottom: 0px;
+	}
+}
+@media (max-width: 850px) {
+	.pilopaga .pilopaga-menu-secundario .view-content .views-row{
+		width: 50%;
 	}
 }
 @media (max-width: 780px) {
@@ -193,9 +199,13 @@
 		border-left: 0px;
 	}
 }
-@media (max-width: 850px) {
-	.pilopaga .pilopaga-menu-secundario .view-content .views-row{
-		width: 50%;
+@media (max-width: 770px) {
+	.pilopaga .views-slideshow-cycle-main-frame{
+		height: 170px!important;
+	}
+	.pilopaga .pilopaga-slideshow .view-content{
+		height:170px;
+		margin-bottom: 0px;
 	}
 }
 @media (max-width: 600px) {
