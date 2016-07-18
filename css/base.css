@@ -180,9 +180,11 @@
 }
 .pilopaga .spp-site-destacados{
 	width: 40%;
+	display:inline-block;
 }
 .pilopaga .spp-video-destacados{
 	width: 60%;
+	display:inline-block;
 }
 
 /*@media */
