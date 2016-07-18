@@ -178,6 +178,13 @@
 .pilopaga .pilopaga-menu-secundario .view-content .views-row{
 	background-position:-5px 20px;
 }
+.pilopaga .spp-site-destacados{
+	width: 40%;
+}
+.pilopaga .spp-video-destacados{
+	width: 60%;
+}
+
 /*@media */
 @media (max-width: 1025px) {
 	.pilopaga .views-slideshow-cycle-main-frame{
