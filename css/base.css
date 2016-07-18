@@ -179,8 +179,9 @@
 	background-position:-5px 20px;
 }
 .pilopaga .spp-site-destacados{
-	width: 40%;
-	display:inline-block;
+	width: 39%;
+  display: inline-block;
+  vertical-align: top;
 }
 .pilopaga .spp-video-destacados{
 	width: 60%;
