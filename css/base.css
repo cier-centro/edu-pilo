@@ -201,6 +201,27 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 .pilopaga .panel-separator{
 	display:none;
 }
+
+.pilopaga .spp-publication-history{
+    width: 30%;
+    float: left;
+    padding-left: 15px;
+}
+
+.pilopaga .spp-redes-sociales .view-content{
+    display: -webkit-inline-box;
+    width: 70%;
+    padding: 5px 0px 188px 20px;
+}
+
+.pilopaga .view-content .views-row .views-row-1 .views-row-odd .views-row-first{
+    width: 44%;
+}
+
+.pilopaga .views-row .views-row-2 .views-row-even .views-row-last{
+   padding-left: 30px;
+}
+
 .pilopaga .spp-site-destacados h2{
 	color:#5B5B5F !important
 }
@@ -216,6 +237,7 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 }
 .pilopaga .spp-site-destacados .spp-btn a .spp-btn-colombiaprende{
 }
+
 /*@media */
 @media (max-width: 1025px) {
 	.pilopaga .views-slideshow-cycle-main-frame{
