@@ -16,3 +16,16 @@
 .pilopaga .questions-frequently .panel-default>.panel-heading h4{
 		color: white;
 }
+.pilopaga .questions-frequently .panel-body tbody tr {
+		background: white;
+}
+.pilopaga .questions-frequently .panel-body tbody td {
+    padding: 15px 5px;
+}
+.pilopaga .questions-frequently .panel-body tbody tr:first-child {
+		color: #8EBE2C;
+    font-size: 18px;
+}
+.pilopaga .questions-frequently .panel-body tbody tr:first-child strong{
+		color: #8EBE2C;
+}
