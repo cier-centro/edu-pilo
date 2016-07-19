@@ -5,6 +5,10 @@
 	background: linear-gradient(to right,  rgb(0,171,211) 0%,rgb(29,186,217) 20%,rgb(29,186,217) 80%,rgb(0,171,211) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00abd3', endColorstr='#00abd3',GradientType=1 );
 }
+.pilopaga .section_content{
+-webkit-box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
+box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
+}
 .pilopaga .header{display:none;}
 .pilopaga #block-search-form{display:none;}
 .pilopaga .header_search{
