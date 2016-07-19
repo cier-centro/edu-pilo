@@ -139,7 +139,8 @@
 .pilopaga .content-interno .new_sbtitle span
 {
 	color: #840053;
-	font-size: 1.1em;
+	font-size: 0.9em;
+	margin-top: -10px;
 }
 
 .pilopaga .content-interno .new_sbtitle a
