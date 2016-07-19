@@ -1,0 +1,82 @@
+.pilopaga .tituloH2
+{
+	text-decoration: underline;
+
+}
+
+.pilopaga h1,.pilopaga h2,.pilopaga h3,.pilopaga h4,.pilopaga h5,.pilopaga h6,.pilopaga p
+{
+	color: #808080;
+}
+
+.pilopaga h1
+{
+	font-size: 1.5em
+}
+
+.pilopaga h2
+{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.pilopaga h3
+{
+	font-size: 1.1em
+}
+
+.pilopaga h4
+{
+	font-size: 1em;
+}
+
+.pilopaga h5
+{
+	font-size: 0.9em;
+}
+
+.pilopaga h6
+{
+	font-size: 0.8em;
+}
+
+/*VIDEOS*/
+
+.pilopaga .vid {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.pilopaga .vid iframe,
+.pilopaga .vid object,
+.pilopaga .vid embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.pilopaga .boton1
+{
+	background-color: #840053;
+}
+
+.pilopaga .boton2
+{
+	background-color: #A61566;
+}
+
+.pilopaga .boton1, .boton2
+{
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 1px;
+}
+
+.pilopaga .boton1 a , .boton2 a
+{
+	color: white;
+	cursor: pointer;
+}
