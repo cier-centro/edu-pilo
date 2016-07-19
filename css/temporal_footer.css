@@ -4,7 +4,8 @@
 }
 .pilopaga .button-notes-view .view-content > div {
     margin-left: 15px;
-    width: 20%;
+    width: 18.4%;
+		overflow: hidden;
 }
 .pilopaga .button-notes-view .views-row-1 {
     background: #FCC251;
@@ -30,6 +31,7 @@
 .pilopaga .button-notes-view img {
     max-width: none;
     height: 100%;
+		margin: 0 -25%;
 }
 .pilopaga .button-notes-view .views-field-title {
     padding: 10px;
