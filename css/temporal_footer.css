@@ -1,3 +1,9 @@
+.pilopaga .pilo-friends, .pilopaga .button-notes-view .view-content {
+		background: white;
+}
+.panels-flexible-region-portadas_edusitios_modelo_1-center {
+		width: 100% !important;
+}
 .pilopaga .button-notes-view .view-content {
     display: flex;
     padding-right: 15px;
@@ -196,7 +202,7 @@
 }
 @media (min-width: 992px){
 	.pilopaga .pilo-friends .friends-logos div:first-child {
-			margin-left: 2%;
+			margin-left: 8.33333333%;
 	}
 	.pilopaga .footer .container-fluid .row {
 		display: flex;
