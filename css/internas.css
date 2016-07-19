@@ -68,14 +68,15 @@
 	background-color: #A61566;
 }
 
-.pilopaga .boton1, .boton2
+.pilopaga .boton1, .pilopaga .boton2
 {
 	padding: 20px;
 	text-align: center;
 	margin-bottom: 1px;
+	color: white;
 }
 
-.pilopaga .boton1 a , .boton2 a
+.pilopaga .content-interno .boton1 a , .pilopaga .content-interno .boton2 a
 {
 	color: white;
 	cursor: pointer;
@@ -139,7 +140,8 @@
 .pilopaga .content-interno .new_sbtitle span
 {
 	color: #840053;
-	font-size: 1.1em;
+	font-size: 0.9em;
+	margin-top: -10px;
 }
 
 .pilopaga .content-interno .new_sbtitle a

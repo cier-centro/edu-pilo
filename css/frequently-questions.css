@@ -1,0 +1,12 @@
+.pilopaga .questions-frequently {
+		padding: 30px 30px 20px;
+}
+.pilopaga .questions-frequently .panel-default:nth-child(odd) > div:first-child {
+	 	background: #A81A66;
+}
+.pilopaga .questions-frequently .panel-default:nth-child(even) > div:first-child {
+	 	background: #850252;
+}
+.pilopaga .questions-frequently .panel-default>.panel-heading h4{
+		color: white;
+}
