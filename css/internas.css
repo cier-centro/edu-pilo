@@ -124,9 +124,10 @@
 	font-size: 1.2em;
 }
 
-.pilopaga .content-interno .general_title .lt .green2 h2
+#block-system-main > div > div > div > div > div > div.panel-pane.pane-views-panes.pane-ser-pilo-paga-2-panel-pane-15 > div > div > div > div > div > div > div > div > div.general_title.lt.green2 > h2
 {
 	font-size: 1.2em;
 	font-weight: bold;
 	text-decoration: underline;
 }
+
