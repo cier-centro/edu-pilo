@@ -80,3 +80,18 @@
 	color: white;
 	cursor: pointer;
 }
+
+/*EDIT NODOS*/
+
+.pilopaga a
+{
+	color: #A61566;
+	padding: 10px;
+	text-decoration: underline;
+	font-size: 1.2em;
+}
+
+.pilopaga td p
+{
+	padding: 10px 0;
+}
