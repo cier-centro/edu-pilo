@@ -109,11 +109,17 @@
 .pilopaga .content-interno .general_title h2
 {
 	background-color: #A61566;
-	padding: 10px;
+	padding: 15px 10px;
 	color: white;
 }
 
 .pilopaga .content-interno .centr_cont
 {
-	padding: 2px 15px;
+	padding: 2px 10px;
+}
+
+.pilopaga .content-interno .tit_antes
+{
+	color: #A61566;
+	font-size: 1.2em;
 }
