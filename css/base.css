@@ -215,11 +215,11 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 }
 
 .pilopaga .spp-redes-sociales .spp-publication-history .view-content .views-row .views-row-1 .views-row-odd .views-row-first{
-    width: 44%;  
+    width: 44%;
 }
 
 .pilopaga .spp-redes-sociales .spp-publication-history .view-content .views-row .views-row-2 .views-row-even .views-row-last{
-   padding-left: 30px; 
+   padding-left: 30px;
 }
 
 .pilopaga .view-content .views-row .views-row-1 .views-row-odd .views-row-first{
@@ -235,10 +235,12 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 }
 .pilopaga .spp-site-destacados h2 .icon-destacado{
 	display: inline-block;
-	width: 32px;
-	height: 32px;
+	width: 34px;
+	height: 34px;
 	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat;
-	background-position:0 1px;
+	background-position: -10px -10px;
+	vertical-align: middle;
+	margin: 0 10px;
 }
 .pilopaga .spp-site-destacados .spp-btn{
 
