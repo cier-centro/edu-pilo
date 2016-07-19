@@ -214,6 +214,14 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
     padding: 5px 0px 188px 20px;
 }
 
+.pilopaga .spp-redes-sociales .spp-publication-history .view-content .views-row .views-row-1 .views-row-odd .views-row-first{
+    width: 44%;  
+}
+
+.pilopaga .spp-redes-sociales .spp-publication-history .view-content .views-row .views-row-2 .views-row-even .views-row-last{
+   padding-left: 30px; 
+}
+
 .pilopaga .view-content .views-row .views-row-1 .views-row-odd .views-row-first{
     width: 44%;
 }
@@ -239,6 +247,7 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 	color:transparent;
 }
 .pilopaga .spp-site-destacados .spp-btn a .spp-btn-colombiaprende{
+
 }
 
 /*@media */
