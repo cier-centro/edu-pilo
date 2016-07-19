@@ -134,12 +134,18 @@
 .pilopaga .content-interno strong
 {
 	color: #808080;
+	font-weight: bold;
 }
 
 .pilopaga .content-interno .new_sbtitle a span
 {
-	padding-left: 0;
-	text-decoration: none;
 	color: #840053;
+	font-size: 1em;
+	float: right;
+}
+
+.pilopaga .content-interno .new_sbtitle a
+{
+	text-decoration: none;
 }
 
