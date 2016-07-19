@@ -108,6 +108,7 @@
 
 .pilopaga .content-interno .general_title h2
 {
-	background-color: red;
-	padding: 5px;
+	background-color: #A61566;
+	padding: 10px;
+	color: white;
 }
