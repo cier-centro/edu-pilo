@@ -1,3 +1,10 @@
+.pilopaga{
+	background: rgb(0,168,163);
+	background: -moz-linear-gradient(top,  rgb(0,168,163) 0%, rgb(42,183,179) 50%, rgb(0,168,163) 100%);
+	background: -webkit-linear-gradient(top,  rgb(0,168,163) 0%,rgb(42,183,179) 50%,rgb(0,168,163) 100%);
+	background: linear-gradient(to bottom,  rgb(0,168,163) 0%,rgb(42,183,179) 50%,rgb(0,168,163) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00a8a3', endColorstr='#00a8a3',GradientType=0 );
+}
 .pilopaga .header{display:none;}
 .pilopaga #block-search-form{display:none;}
 .pilopaga .header_search{
