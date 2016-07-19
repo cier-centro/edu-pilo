@@ -83,7 +83,7 @@
 
 /*EDIT NODOS*/
 
-.pilopaga a
+.pilopaga .contenido2016 a
 {
 	color: #A61566;
 	padding: 10px;
@@ -91,7 +91,7 @@
 	font-size: 1.2em;
 }
 
-.pilopaga td p
+.pilopaga .contenido2016 td p
 {
 	padding: 10px 0;
 }
