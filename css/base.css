@@ -90,10 +90,10 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 }
 .pilopaga .pilopaga-slideshow .views-slideshow-controls-bottom{
 	position:relative;
-    top: -230px;
-    z-index: 100;
-    width: 100%;
-	height:230px;
+  top: -230px;
+  z-index: 100;
+  width: 100%;
+	height:0px;
 	box-sizing: border-box;
 	padding: 15px;
 }
@@ -122,8 +122,9 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 .pilopaga .pilopaga-slideshow .views-slideshow-controls-text-pause{display: none;}
 .pilopaga .pilopaga-slideshow .views-slideshow-slide-counter{
 	position: absolute;
-    bottom: 10px;
-    left: 50%;
+  bottom: 10px;
+  left: 50%;
+	display:none;
 }
 /*fin slideshow*/
 .pilopaga .views-slideshow-cycle-main-frame img{
