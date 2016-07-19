@@ -137,14 +137,14 @@
 	font-weight: bold;
 }
 
-.pilopaga .content-interno .new_sbtitle hr a span
+.pilopaga .content-interno .new_sbtitle a span
 {
 	color: #840053;
 	font-size: 1em;
 	float: right;
 }
 
-.pilopaga .content-interno .new_sbtitle hr a
+.pilopaga .content-interno .new_sbtitle a
 {
 	text-decoration: none;
 }
