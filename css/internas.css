@@ -118,16 +118,28 @@
 	padding: 2px 10px;
 }
 
-.pilopaga .content-interno .tit_antes
+.pilopaga .content-interno .tit_antes, .pilopaga .content-interno .tit_salud, .pilopaga .content-interno .tit_educ, .pilopaga .content-interno .tit_econ
 {
 	color: #A61566;
 	font-size: 1.2em;
 }
 
-#block-system-main > div > div > div > div > div > div.panel-pane.pane-views-panes.pane-ser-pilo-paga-2-panel-pane-15 > div > div > div > div > div > div > div > div > div.general_title.lt.green2 > h2
+.pilopaga .content-interno .general_title .lt .green2 h2
 {
 	font-size: 1.2em;
 	font-weight: bold;
 	text-decoration: underline;
+}
+
+.pilopaga .content-interno strong
+{
+	color: #808080;
+}
+
+.pilopaga .content-interno .new_sbtitle a span
+{
+	padding-left: 0;
+	text-decoration: none;
+	color: #840053;
 }
 
