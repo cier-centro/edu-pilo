@@ -111,583 +111,583 @@
                     </div>
                     <div id="collapse2" class="panel-collapse collapse">
                         <div class="panel-body">
+                            <div class="table-responsive">
+                                <table border="1" cellpadding="0" cellspacing="0" width="101%">
+                                    <tbody>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>IES Acreditadas de Alta Calidad</strong></a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>Ciudad</strong><br />
+                                                        <strong>Sedes o Seccionales</strong></a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>Pública</strong></a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>Privada</strong></a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fundación Universidad del Norte</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Barranquilla</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colegio Mayor Nuestra Señora del Rosario</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fundación Universidad de Bogotá-Jorge Tadeo &nbsp;&nbsp;Lozano</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pontificia Universidad Javeriana</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá<br />
+                                                        Cali</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad de la Salle</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad de los Andes</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad EAN</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad Externado de Colombia</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad Nacional de Colombia</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá<br />
+                                                        Manizales<br />
+                                                        Medellín<br />
+                                                        Palmira</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">10. Universidad Santo Tomás de Aquino</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">11.&nbsp; Universidad Autónoma de Bucaramanga</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">B/manga</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">12.&nbsp; Universidad Industrial de Santander</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">B/manga</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">13.&nbsp; Universidad Autónoma de Occidente</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Cali</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">14.&nbsp; Universidad del Valle</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Cali</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">15.&nbsp; Universidad ICESI</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Cali</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">16.&nbsp; Fundación Tecnológica Antonio Arévalo</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">C/gena</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">17.&nbsp; Universidad de Cartagena</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">C/gena</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">18.&nbsp; Universidad Tecnológica de Bolívar</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">C/gena</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">19.&nbsp; Universidad de la Sabana</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Chía</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">20.&nbsp; Universidad Pedagógica y Tecnológica de Colombia</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Tunja<br />
+                                                        Sogamoso<br />
+                                                        Duitama</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">21.&nbsp; Universidad de Caldas</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Manizales</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">22.&nbsp; Escuela de Ingeniería de Antioquia</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">23.&nbsp; Instituto Tecnológico Metropolitano</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">24.&nbsp; Universidad CES</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">25.&nbsp; Universidad de Antioquia</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">26.&nbsp; Universidad de Medellín</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">27.&nbsp; Universidad EAFIT</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">28.&nbsp; Universidad Pontificia Bolivariana</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">29.&nbsp; Universidad Tecnológica de Pereira</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Pereira</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">30.&nbsp; Universidad del Cauca</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Popayán</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">31.&nbsp; Universidad Sergio Arboleda</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">32.&nbsp; Escuela de Ingenieros “Julio Garavito”</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">33.&nbsp; Universidad de Manizales</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Manizales</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">34.&nbsp; Colegio de Estudios Superiores en Administración-CESA</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">X</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">35.&nbsp; Universidad Autónoma de Manizales</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Manizales</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">36.&nbsp; Universidad Militar Nueva Granada</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">37.&nbsp; Escuela Naval de Suboficiales-ARC *</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">B/quilla</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">38.&nbsp; Escuela de Suboficiales de la Fuerza Aérea-ESUFA *</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Madrid</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td nowrap="nowrap" width="53%">
+                                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">39.&nbsp; Dirección Nacional de Escuelas-Policía Nal *</a></p>
+                                            </td>
+                                            <td width="24%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
+                                            </td>
+                                            <td width="10%">
+                                                <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
 
-                            <table border="1" cellpadding="0" cellspacing="0" width="101%">
-                                <tbody>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>IES Acreditadas de Alta Calidad</strong></a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>Ciudad</strong><br />
-                                                    <strong>Sedes o Seccionales</strong></a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>Pública</strong></a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD"><strong>Privada</strong></a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fundación Universidad del Norte</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Barranquilla</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colegio Mayor Nuestra Señora del Rosario</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fundación Universidad de Bogotá-Jorge Tadeo &nbsp;&nbsp;Lozano</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pontificia Universidad Javeriana</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá<br />
-                                                    Cali</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad de la Salle</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad de los Andes</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad EAN</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad Externado de Colombia</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universidad Nacional de Colombia</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá<br />
-                                                    Manizales<br />
-                                                    Medellín<br />
-                                                    Palmira</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">10. Universidad Santo Tomás de Aquino</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">11.&nbsp; Universidad Autónoma de Bucaramanga</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">B/manga</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">12.&nbsp; Universidad Industrial de Santander</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">B/manga</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">13.&nbsp; Universidad Autónoma de Occidente</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Cali</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">14.&nbsp; Universidad del Valle</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Cali</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">15.&nbsp; Universidad ICESI</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Cali</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">16.&nbsp; Fundación Tecnológica Antonio Arévalo</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">C/gena</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">17.&nbsp; Universidad de Cartagena</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">C/gena</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">18.&nbsp; Universidad Tecnológica de Bolívar</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">C/gena</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">19.&nbsp; Universidad de la Sabana</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Chía</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">20.&nbsp; Universidad Pedagógica y Tecnológica de Colombia</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Tunja<br />
-                                                    Sogamoso<br />
-                                                    Duitama</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">21.&nbsp; Universidad de Caldas</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Manizales</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">22.&nbsp; Escuela de Ingeniería de Antioquia</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">23.&nbsp; Instituto Tecnológico Metropolitano</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">24.&nbsp; Universidad CES</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">25.&nbsp; Universidad de Antioquia</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">26.&nbsp; Universidad de Medellín</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">27.&nbsp; Universidad EAFIT</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">28.&nbsp; Universidad Pontificia Bolivariana</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Medellín</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">29.&nbsp; Universidad Tecnológica de Pereira</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Pereira</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">30.&nbsp; Universidad del Cauca</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Popayán</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">31.&nbsp; Universidad Sergio Arboleda</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">32.&nbsp; Escuela de Ingenieros “Julio Garavito”</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">33.&nbsp; Universidad de Manizales</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Manizales</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">34.&nbsp; Colegio de Estudios Superiores en Administración-CESA</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">X</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">35.&nbsp; Universidad Autónoma de Manizales</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Manizales</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">36.&nbsp; Universidad Militar Nueva Granada</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">37.&nbsp; Escuela Naval de Suboficiales-ARC *</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">B/quilla</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">38.&nbsp; Escuela de Suboficiales de la Fuerza Aérea-ESUFA *</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Madrid</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td nowrap="nowrap" width="53%">
-                                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">39.&nbsp; Dirección Nacional de Escuelas-Policía Nal *</a></p>
-                                        </td>
-                                        <td width="24%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">Bogotá</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">x</a></p>
-                                        </td>
-                                        <td width="10%">
-                                            <p align="center"><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">*Las IES de Fuerzas Militares y Policía Nacional abrirán convocatoria nuevamente en 2016 en tanto su calendario de incorporación no corresponde a las fechas del calendario de admisión de las demás IES acreditadas, en razón de las pruebas específicas que contempla.</a></p>
 
-                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">*Las IES de Fuerzas Militares y Policía Nacional abrirán convocatoria nuevamente en 2016 en tanto su calendario de incorporación no corresponde a las fechas del calendario de admisión de las demás IES acreditadas, en razón de las pruebas específicas que contempla.</a></p>
-
-                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
-
+                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">&nbsp;</a></p>
+                            </div>
                         </div>
                     </div>
                     <!--#collapse2-->
