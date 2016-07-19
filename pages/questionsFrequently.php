@@ -691,234 +691,227 @@
                         </div>
                     </div>
                     <!--#collapse2-->
-
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                                    3. ¿Cómo consultar el puntaje de la encuesta del SISBEN y obtener el certificado?
-                                </a>
-                            </h4>
+                </div>
+              <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+                                3. ¿Cómo consultar el puntaje de la encuesta del SISBEN y obtener el certificado?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse3" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">El SISBEN es un Sistema de Información con el que el Departamento Nacional de Planeación (DNP) clasifica a la población y no corresponde ni al Servicio de Salud, ni a un subsidio en particular. Cualquier ciudadano puede consultarlo en la página web del SISBEN-DNP </a><a href="https://www.sisben.gov.co/ConsultadePuntaje.aspx">https://www.sisben.gov.co/ConsultadePuntaje.aspx</a>. Ingresando al link de Consulta de SISBEN y digitando el tipo y número de documento.<br />
+                                Para cumplir con el requisito del SISBEN en la Convocatoria Ser Pilo Paga 2 (SPP2), deberá contar con el puntaje requerido por la convocatoria, con corte a 19 de junio de 2015.<br />
+                                Si se presenta algún error o inconsistencia en los datos personales, puede comunicarse directamente al Conmutador Bogotá (57-1) 381 5000 o a nivel nacional al 018000 12 12 21 ó acercarse a la sucursal más cercana a su lugar de residencia y solicitar la corrección a la mayor brevedad. Recuerde conservar evidencia de esta solicitud con firma o sello de recibido de los funcionarios del DNP-SISBEN.</p>
                         </div>
-                        <div id="collapse3" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p><a href="http://documentacion.mineducacion.gov.co/MENGESDOC/autovalidacion.asp?usuario=anonimo&amp;clave=anonimo&amp;url=http://documentacion.mineducacion.gov.co/MENGESDOC/ModuloReportesDinamicos/InterfazUsuario/HomeRepDinamicos.asp?Portal=GD">El SISBEN es un Sistema de Información con el que el Departamento Nacional de Planeación (DNP) clasifica a la población y no corresponde ni al Servicio de Salud, ni a un subsidio en particular. Cualquier ciudadano puede consultarlo en la página web del SISBEN-DNP </a><a href="https://www.sisben.gov.co/ConsultadePuntaje.aspx">https://www.sisben.gov.co/ConsultadePuntaje.aspx</a>. Ingresando al link de Consulta de SISBEN y digitando el tipo y número de documento.<br />
-                                    Para cumplir con el requisito del SISBEN en la Convocatoria Ser Pilo Paga 2 (SPP2), deberá contar con el puntaje requerido por la convocatoria, con corte a 19 de junio de 2015.<br />
-                                    Si se presenta algún error o inconsistencia en los datos personales, puede comunicarse directamente al Conmutador Bogotá (57-1) 381 5000 o a nivel nacional al 018000 12 12 21 ó acercarse a la sucursal más cercana a su lugar de residencia y solicitar la corrección a la mayor brevedad. Recuerde conservar evidencia de esta solicitud con firma o sello de recibido de los funcionarios del DNP-SISBEN.</p>
-                            </div>
-                        </div>
+                    </div>
                         <!--#collapse3-->
+              </div>
+              <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                                4. ¿Qué debo hacer tan pronto sepa que soy un Pilo (cumplo los requisitos de Saber 11, SISBEN y admisión a una IES acreditada en alta calidad?
+                            </a>
+                        </h4>
                     </div>
+                    <div id="collapse4" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p>Debes ingresar a la página del ICETEX <a href="http://www.icetex.gov.co">www.icetex.gov.co</a> luego dar click en la convocatoria de Ser Pilo Paga 2. Allí encontrarás toda la información de cómo realizar la inscripción. Ten a la mano toda la documentación que acredita el cumplimiento de los tres requisitos y si tienes algún inconveniente comunícate a los números telefónicos del ICETEX, Bogotá (57-1) 417-3535, a nivel nacional: 01900-3313777 o a la línea gratuita: 018000-916821. También puedes acercarte lo más pronto posible a la sucursal del ICETEX más cercana a tu lugar de residencia. Puedes consultar los puntos de atención al usuario en el siguiente link<br />
+                                <a href="http://www.icetex.gov.co/dnnpro5/es-co/atenci%C3%B3nalciudadano/puntosdeatenci%C3%B3n/ubicaci%C3%B3nyhorarios.aspx">http://www.icetex.gov.co/dnnpro5/es-co/atenci%C3%B3nalciudadano/puntosdeatenci%C3%B3n/ubicaci%C3%B3nyhorarios.aspx</a></p>
 
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                                    4. ¿Qué debo hacer tan pronto sepa que soy un Pilo (cumplo los requisitos de Saber 11, SISBEN y admisión a una IES acreditada en alta calidad? 
-                                </a>
-                            </h4>
+                            <p>Recuerda que este paso es muy importante, pues si no legalizas tu inscripción al Programa Ser Pilo Paga ante ICETEX, no podrás ser beneficiario aunque hayas podido cumplir con los tres requisitos. Imprime el pantallazo de inscripción realizada o guarda una copia física con recibido firmado que certifique la entrega de documentación ante un funcionario del ICETEX.</p>
                         </div>
-                        <div id="collapse4" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p>Debes ingresar a la página del ICETEX <a href="http://www.icetex.gov.co">www.icetex.gov.co</a> luego dar click en la convocatoria de Ser Pilo Paga 2. Allí encontrarás toda la información de cómo realizar la inscripción. Ten a la mano toda la documentación que acredita el cumplimiento de los tres requisitos y si tienes algún inconveniente comunícate a los números telefónicos del ICETEX, Bogotá (57-1) 417-3535, a nivel nacional: 01900-3313777 o a la línea gratuita: 018000-916821. También puedes acercarte lo más pronto posible a la sucursal del ICETEX más cercana a tu lugar de residencia. Puedes consultar los puntos de atención al usuario en el siguiente link<br />
-                                    <a href="http://www.icetex.gov.co/dnnpro5/es-co/atenci%C3%B3nalciudadano/puntosdeatenci%C3%B3n/ubicaci%C3%B3nyhorarios.aspx">http://www.icetex.gov.co/dnnpro5/es-co/atenci%C3%B3nalciudadano/puntosdeatenci%C3%B3n/ubicaci%C3%B3nyhorarios.aspx</a></p>
-
-                                <p>Recuerda que este paso es muy importante, pues si no legalizas tu inscripción al Programa Ser Pilo Paga ante ICETEX, no podrás ser beneficiario aunque hayas podido cumplir con los tres requisitos. Imprime el pantallazo de inscripción realizada o guarda una copia física con recibido firmado que certifique la entrega de documentación ante un funcionario del ICETEX.</p>
-                            </div>
-                        </div>
-                        <!--#collapse4-->
                     </div>
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
-                                    5. ¿Si todavía no estoy incluido en la Base de Datos de SISBEN con la que cuenta la Institución de Educación Superior que debo hacer?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id="collapse5" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <p>La Base de Datos con la que cuentan las Instituciones de Educación Superior corresponde al cruce entre los resultados de la Prueba Saber 11 presentada el 2 de agosto de 2015 y los puntajes de SISBEN previos al corte del 19 de junio por debajo de los cortes establecidos en los requisitos para ciudades principales, resto urbano y área rural. Los jóvenes allí reportados recibirán de forma gratuita los PINES de inscripción a las Instituciones.<br />
-                                    En caso de no aparecer en esta base de datos, podrás consultar directamente en la página web del SISBEN <a href="https://www.sisben.gov.co/ConsultadePuntaje.aspx">https://www.sisben.gov.co/ConsultadePuntaje.aspx</a> donde deberás ubicar la siguiente información:</p>
+                    <!--#collapse4-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                              5. ¿Si todavía no estoy incluido en la Base de Datos de SISBEN con la que cuenta la Institución de Educación Superior que debo hacer?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse5" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p>La Base de Datos con la que cuentan las Instituciones de Educación Superior corresponde al cruce entre los resultados de la Prueba Saber 11 presentada el 2 de agosto de 2015 y los puntajes de SISBEN previos al corte del 19 de junio por debajo de los cortes establecidos en los requisitos para ciudades principales, resto urbano y área rural. Los jóvenes allí reportados recibirán de forma gratuita los PINES de inscripción a las Instituciones.<br />
+                              En caso de no aparecer en esta base de datos, podrás consultar directamente en la página web del SISBEN <a href="https://www.sisben.gov.co/ConsultadePuntaje.aspx">https://www.sisben.gov.co/ConsultadePuntaje.aspx</a> donde deberás ubicar la siguiente información:</p>
 
-                                <ul>
-                                    <li>Nombre</li>
-                                    <li>Apellido</li>
-                                    <li>Tipo de Documento</li>
-                                    <li>Número de Documento</li>
-                                    <li><strong>FECHA DE MODIFICACIÓN<strong>, la cual debe ser del 19 de junio de 2015 o anterior (2015/06/19) </strong></strong></li>
-                                    <li><strong><strong>Puntaje, según corte establecido. </strong></strong></li>
-                                </ul>
-                                <br />
-                                <strong><strong>Es importante que tengas en cuenta que la fecha que aparece en el costado inferior del certificado como: Base Certificada Nacional-Corte 18 de Septiembre de 2015, corresponde a la última base con la que cuenta SISBEN que al ser consultado en el mes de Octubre de 2015 corresponde a 18 de Septiembre.<br />
-                                        Si luego de esta consulta validas que cumples requisitos, imprime es Certificado y llévalo a la Institución de Educación Superior acreditada de alta calidad donde deseas cursar tu proceso de admisión y solicita tu PIN gratis con esta certificación.<br />
-                                        Si consideras que el error persiste y estás seguro de que tu puntaje corresponde a un ingreso al SISBEN previo al 19 de septiembre, puedes acudir a una segunda validación la cual se llevará a cabo para la totalidad de potenciales beneficiarios en el mes de diciembre, en el marco de los comités de Pre-Adjudicación. Para esto, deberás inscribirte en la Institución de Educación Superior asumiendo el costo del PIN y al ser admitido radicar de forma física la documentación que certifica tu cumplimiento de los 3 requisitos de la Convocatoria en Atención al Ciudadano del ICETEX con una comunicación escrita en la que explicas tu situación. Es de vital importancia que conserves el radicado de esta comunicación para realizar el seguimiento pertinente.<br />
-                                        En los comités de Pre-Adjudicación se contará con base de datos actualizada, lo que permitirá validar aquellos casos remitidos como errores y corroborar si en efecto cumplen los requisitos de la Convocatoria Ser Pilo Paga 2.<br />
-                                        Si no apareces en el SISBEN podrás solicitar a DNP-SISBEN la visita domiciliaría. Sin embargo, este proceso de inscripción no es inmediato y si no te encontrabas inscrito en el registro de SISBEN antes del corte del 19 de junio de 2015, o registro en Base Censal del Ministerio del Interior con corte a 30 de junio de 2015 para el caso de la población indígena, <strong>no podrás hacer parte de esta convocatoria.</strong> </strong></strong>
+                          <ul>
+                              <li>Nombre</li>
+                              <li>Apellido</li>
+                              <li>Tipo de Documento</li>
+                              <li>Número de Documento</li>
+                              <li><strong>FECHA DE MODIFICACIÓN<strong>, la cual debe ser del 19 de junio de 2015 o anterior (2015/06/19) </strong></strong></li>
+                              <li><strong><strong>Puntaje, según corte establecido. </strong></strong></li>
+                          </ul>
+                          <br />
+                          <strong><strong>Es importante que tengas en cuenta que la fecha que aparece en el costado inferior del certificado como: Base Certificada Nacional-Corte 18 de Septiembre de 2015, corresponde a la última base con la que cuenta SISBEN que al ser consultado en el mes de Octubre de 2015 corresponde a 18 de Septiembre.<br />
+                                  Si luego de esta consulta validas que cumples requisitos, imprime es Certificado y llévalo a la Institución de Educación Superior acreditada de alta calidad donde deseas cursar tu proceso de admisión y solicita tu PIN gratis con esta certificación.<br />
+                                  Si consideras que el error persiste y estás seguro de que tu puntaje corresponde a un ingreso al SISBEN previo al 19 de septiembre, puedes acudir a una segunda validación la cual se llevará a cabo para la totalidad de potenciales beneficiarios en el mes de diciembre, en el marco de los comités de Pre-Adjudicación. Para esto, deberás inscribirte en la Institución de Educación Superior asumiendo el costo del PIN y al ser admitido radicar de forma física la documentación que certifica tu cumplimiento de los 3 requisitos de la Convocatoria en Atención al Ciudadano del ICETEX con una comunicación escrita en la que explicas tu situación. Es de vital importancia que conserves el radicado de esta comunicación para realizar el seguimiento pertinente.<br />
+                                  En los comités de Pre-Adjudicación se contará con base de datos actualizada, lo que permitirá validar aquellos casos remitidos como errores y corroborar si en efecto cumplen los requisitos de la Convocatoria Ser Pilo Paga 2.<br />
+                                  Si no apareces en el SISBEN podrás solicitar a DNP-SISBEN la visita domiciliaría. Sin embargo, este proceso de inscripción no es inmediato y si no te encontrabas inscrito en el registro de SISBEN antes del corte del 19 de junio de 2015, o registro en Base Censal del Ministerio del Interior con corte a 30 de junio de 2015 para el caso de la población indígena, <strong>no podrás hacer parte de esta convocatoria.</strong> </strong></strong>
 
-                                <p>&nbsp;</p>
-                                <strong><strong> </strong></strong>
-                            </div>
-                        </div>
+                          <p>&nbsp;</p>
+                          <strong><strong> </strong></strong>
+                      </div>
+                  </div>
                         <!--#collapse5-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+                              6. ¿El joven beneficiario puede estudiar un programa en las modalidades virtual o a Distancia?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse6" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p><strong><strong>No, en la Convocatoria Ser Pilo Paga 2 solo se podrán estudiar programas en la modalidad presencial que se ofrezcan en las sedes acreditadas de las Instituciones de Educación Superior Acreditadas en Alta Calidad.</strong></strong></p>
+                      </div>
+                  </div>
+                  <!--#collapse6-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+                              7. ¿El joven beneficiario de Ser Pilo Paga 2 puede aplazar semestres?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse7" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p><strong><strong>Sí, los beneficiarios pueden aplazar hasta un máximo de dos (2) semestres. El Reglamento Operativo del Programa Ser Pilo Paga 2 establece que la solicitud de aplazamiento aplica para quienes una vez garantizado el cupo en la Institución de Educación Superior para el primer semestre de 2016, por razones justificadas ante la Institución de Educación Superior (enfermedad, calamidad familiar, traslado del lugar de residencia, procesos de nivelación académico, procesos de orientación socio-ocupacional, etc.), no puedan tomar el crédito condonable en su momento, para lo cual le serán reservados los recursos por parte del MEN y el ICETEX, previa notificación formal a la Institución de Educación Superior y al ICETEX.<br />
+                                      Para solicitar el aplazamiento de semestre el beneficiario deberá informar oportunamente a la Institución de Educación Superior y al ICETEX mediante comunicación escrita, su intención y los motivos que ocasionan el aplazamiento. Posteriormente, deberá acceder a la página del ICETEX para reactivar su crédito a partir de la actualización de su información previo reingreso.</strong></strong></p>
+                      </div>
+                  </div>
+                  <!--#collapse7-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
+                              8. ¿El joven beneficiario de Ser Pilo Paga puede Cambiar de Programa o de Institución de Educación Superior?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse8" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p><strong><strong>Sí, puede cambiar de Programa Académico o de Institución de Educación Superior por <strong>una sola vez</strong> y dentro de los <strong>dos (2) primeros semestres</strong>. El Reglamento Operativo del Programa Ser Pilo Paga 2 establece que se aceptarán cambios de programa académico o de Institución de Educación Superior por una sola vez, siempre y cuando:</strong></strong></p>
 
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-                                        6. ¿El joven beneficiario puede estudiar un programa en las modalidades virtual o a Distancia?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse6" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p><strong><strong>No, en la Convocatoria Ser Pilo Paga 2 solo se podrán estudiar programas en la modalidad presencial que se ofrezcan en las sedes acreditadas de las Instituciones de Educación Superior Acreditadas en Alta Calidad.</strong></strong></p>
-                                </div>
-                            </div>
-                            <!--#collapse6-->
-                        </div>
+                          <ul>
+                              <li><strong><strong>La duración total del nuevo programa no supere la del programa para el cual se otorgó el crédito inicialmente</strong></strong></li>
+                              <li><strong><strong>El valor total del nuevo programa, no exceda el 20% del valor total del programa inicial en el cual se otorgó el crédito</strong></strong></li>
+                          </ul>
 
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-                                        7. ¿El joven beneficiario de Ser Pilo Paga 2 puede aplazar semestres?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse7" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p><strong><strong>Sí, los beneficiarios pueden aplazar hasta un máximo de dos (2) semestres. El Reglamento Operativo del Programa Ser Pilo Paga 2 establece que la solicitud de aplazamiento aplica para quienes una vez garantizado el cupo en la Institución de Educación Superior para el primer semestre de 2016, por razones justificadas ante la Institución de Educación Superior (enfermedad, calamidad familiar, traslado del lugar de residencia, procesos de nivelación académico, procesos de orientación socio-ocupacional, etc.), no puedan tomar el crédito condonable en su momento, para lo cual le serán reservados los recursos por parte del MEN y el ICETEX, previa notificación formal a la Institución de Educación Superior y al ICETEX.<br />
-                                                Para solicitar el aplazamiento de semestre el beneficiario deberá informar oportunamente a la Institución de Educación Superior y al ICETEX mediante comunicación escrita, su intención y los motivos que ocasionan el aplazamiento. Posteriormente, deberá acceder a la página del ICETEX para reactivar su crédito a partir de la actualización de su información previo reingreso.</strong></strong></p>
-                                </div>
-                            </div>
-                            <!--#collapse7-->
-                        </div>
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-                                        8. ¿El joven beneficiario de Ser Pilo Paga puede Cambiar de Programa o de Institución de Educación Superior?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse8" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p><strong><strong>Sí, puede cambiar de Programa Académico o de Institución de Educación Superior por <strong>una sola vez</strong> y dentro de los <strong>dos (2) primeros semestres</strong>. El Reglamento Operativo del Programa Ser Pilo Paga 2 establece que se aceptarán cambios de programa académico o de Institución de Educación Superior por una sola vez, siempre y cuando:</strong></strong></p>
+                          <p><strong><strong>Los periodos académicos adicionales que conlleve el cambio de programa o de Institución de Educación Superior, deberán ser financiados con recursos propios del beneficiario.<br />
+                                      Para solicitar el cambio de programa académico, el beneficiario deberá presentar y culminar satisfactoriamente el proceso de selección en el nuevo programa curricular de su interés según los requisitos y procesos de la Institución de Educación Superior acreditadas en alta calidad donde se presente como aspirante. Deberá informar oportunamente, mediante comunicación escrita a la Institución de Educación Superior donde le fue aprobado el crédito y al ICETEX (dirigida a atención al ciudadano del ICETEX), su intención y los motivos que ocasionan el cambio. Es necesario adjuntar a ella:</strong></strong></p>
 
-                                    <ul>
-                                        <li><strong><strong>La duración total del nuevo programa no supere la del programa para el cual se otorgó el crédito inicialmente</strong></strong></li>
-                                        <li><strong><strong>El valor total del nuevo programa, no exceda el 20% del valor total del programa inicial en el cual se otorgó el crédito</strong></strong></li>
-                                    </ul>
+                          <ul>
+                              <li><strong><strong>Certificado de Admisión al nuevo programa curricular o a la nueva institución de Educación Superior.</strong></strong></li>
+                              <li><strong><strong>Certificado de paz y salvo expedido por la institución de Educación Superior en la que inició su programa.</strong></strong></li>
+                              <li><strong><strong>Fotocopia de documento de identidad vigente. En caso de haber cambiado de Tarjeta de Identidad a Cédula, adjuntar también el primer documento con el cual se le aprobó el crédito condonable originalmente.</strong></strong></li>
+                          </ul>
 
-                                    <p><strong><strong>Los periodos académicos adicionales que conlleve el cambio de programa o de Institución de Educación Superior, deberán ser financiados con recursos propios del beneficiario.<br />
-                                                Para solicitar el cambio de programa académico, el beneficiario deberá presentar y culminar satisfactoriamente el proceso de selección en el nuevo programa curricular de su interés según los requisitos y procesos de la Institución de Educación Superior acreditadas en alta calidad donde se presente como aspirante. Deberá informar oportunamente, mediante comunicación escrita a la Institución de Educación Superior donde le fue aprobado el crédito y al ICETEX (dirigida a atención al ciudadano del ICETEX), su intención y los motivos que ocasionan el cambio. Es necesario adjuntar a ella:</strong></strong></p>
+                          <p><strong><strong>Una vez aprobada la nueva admisión, la Institución deberá enviar comunicación dirigida a la Vicepresidencia de Crédito del ICETEX, anunciando la aceptación del nuevo beneficiario y en qué programa. Antes de iniciar el siguiente semestre, el beneficiario deberá actualizar sus datos en la página web del ICETEX para garantizar el respectivo ajuste a los desembolsos de matrícula y apoyo de sostenimiento de su crédito condonable.<br />
+                                      Para quienes legalicen satisfactoriamente el cambio de programa curricular, el ICETEX continuará girando el valor de la matrícula a la IES en la que se aprueba el cambio y el apoyo de sostenimiento al beneficiario, hasta completar la totalidad de giros correspondientes a la duración de Programa Curricular con el que se aprobó inicialmente el crédito. Una vez culminados estos desembolsos y no antes, los periodos adicionales por pérdida de semestre o por cambio de programa curricular deberán ser cancelados por el usuario.</strong></strong></p>
+                      </div>
+                  </div>
+                  <!--#collapse8-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
+                              9. ¿Cómo puedo actualizar mi documento de identidad ante el ICETEX cuando cambio de Tarjeta de Identidad a Cédula de Ciudadanía?.
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse9" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p><strong><strong>El beneficiario debe radicar una carta ante el ICETEX y ante la Institución de Educación Superior, informando el cambio de documento de identidad. Debe anexar la fotocopia de la Tarjeta de Identidad y de la contraseña de la nueva Cédula de Ciudadanía. Luego de eso, deberá hacer seguimiento vía telefónica con el ICETEX para garantizar que la actualización del nuevo documento se realice ante el Banco para retirar la nueva tarjeta recargable.<br />
+                                      Tenga en cuenta que este proceso no es inmediato, por el contrario, para hacerse efectivo le toma al ICETEX alrededor de 15 a 20 días calendario.</strong></strong></p>
+                      </div>
+                  </div>
+                  <!--#collapse9-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">
+                              10. ¿El Programa Ser Pilo Paga 2 otorga o reserva cupos en las Instituciones de Educación Superior?.
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse10" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p>El Gobierno nacional no otorga cupos, sino que hace entrega de créditos condonables y apoyos de sostenimiento para garantizar que la población de bajos recursos pueda acceder a la Educación Superior, siempre y cuando el potencial beneficiario cumpla con los requisitos del programa:</p>
 
-                                    <ul>
-                                        <li><strong><strong>Certificado de Admisión al nuevo programa curricular o a la nueva institución de Educación Superior.</strong></strong></li>
-                                        <li><strong><strong>Certificado de paz y salvo expedido por la institución de Educación Superior en la que inició su programa.</strong></strong></li>
-                                        <li><strong><strong>Fotocopia de documento de identidad vigente. En caso de haber cambiado de Tarjeta de Identidad a Cédula, adjuntar también el primer documento con el cual se le aprobó el crédito condonable originalmente.</strong></strong></li>
-                                    </ul>
+                          <ul>
+                              <li>Puntaje ICFES igual o mayor a 318.</li>
+                              <li>Puntaje específico de SISBEN establecido en la convocatoria y con corte a Junio 19 de 2015.</li>
+                              <li>Admisión en una Institución de Educación Superior acreditada en Alta Calidad.</li>
+                          </ul>
 
-                                    <p><strong><strong>Una vez aprobada la nueva admisión, la Institución deberá enviar comunicación dirigida a la Vicepresidencia de Crédito del ICETEX, anunciando la aceptación del nuevo beneficiario y en qué programa. Antes de iniciar el siguiente semestre, el beneficiario deberá actualizar sus datos en la página web del ICETEX para garantizar el respectivo ajuste a los desembolsos de matrícula y apoyo de sostenimiento de su crédito condonable.<br />
-                                                Para quienes legalicen satisfactoriamente el cambio de programa curricular, el ICETEX continuará girando el valor de la matrícula a la IES en la que se aprueba el cambio y el apoyo de sostenimiento al beneficiario, hasta completar la totalidad de giros correspondientes a la duración de Programa Curricular con el que se aprobó inicialmente el crédito. Una vez culminados estos desembolsos y no antes, los periodos adicionales por pérdida de semestre o por cambio de programa curricular deberán ser cancelados por el usuario.</strong></strong></p>
-                                </div>
-                            </div>
-                            <!--#collapse8-->
-                        </div>
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
-                                        9. ¿Cómo puedo actualizar mi documento de identidad ante el ICETEX cuando cambio de Tarjeta de Identidad a Cédula de Ciudadanía?.
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse9" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p><strong><strong>El beneficiario debe radicar una carta ante el ICETEX y ante la Institución de Educación Superior, informando el cambio de documento de identidad. Debe anexar la fotocopia de la Tarjeta de Identidad y de la contraseña de la nueva Cédula de Ciudadanía. Luego de eso, deberá hacer seguimiento vía telefónica con el ICETEX para garantizar que la actualización del nuevo documento se realice ante el Banco para retirar la nueva tarjeta recargable.<br />
-                                                Tenga en cuenta que este proceso no es inmediato, por el contrario, para hacerse efectivo le toma al ICETEX alrededor de 15 a 20 días calendario.</strong></strong></p>
-                                </div>
-                            </div>
-                            <!--#collapse9-->
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">
-                                        10. ¿El Programa Ser Pilo Paga 2 otorga o reserva cupos en las Instituciones de Educación Superior?.
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse10" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>El Gobierno nacional no otorga cupos, sino que hace entrega de créditos condonables y apoyos de sostenimiento para garantizar que la población de bajos recursos pueda acceder a la Educación Superior, siempre y cuando el potencial beneficiario cumpla con los requisitos del programa:</p>
-
-                                    <ul>
-                                        <li>Puntaje ICFES igual o mayor a 318.</li>
-                                        <li>Puntaje específico de SISBEN establecido en la convocatoria y con corte a Junio 19 de 2015.</li>
-                                        <li>Admisión en una Institución de Educación Superior acreditada en Alta Calidad.</li>
-                                    </ul>
-
-                                    <p>En coherencia con lo establecido en el Artículo 28 de la Ley 30 de 1992, “La autonomía universitaria consagra en la Constitución Política de Colombia y de conformidad con la presente ley, reconoce a las universidades el derecho a darse y modificar sus estatutos, designar sus autoridades académicas y administrativas, crear, organizar y desarrollar sus programas académicos, definir y organizar sus labores formativas, académicas, docentes, científicas y culturales, otorgar los títulos correspondientes, seleccionar a sus profesores, admitir a sus alumnos y adoptar sus correspondientes regímenes y establecer, arbitrar y aplicar sus recursos para el cumplimiento de su misión social y de su función institucional”.</p>
-                                </div>
-                            </div>
-                            <!--#collapse10-->
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">
-                                        11. ¿El joven beneficiario de Ser Pilo Paga que pierde una materia, pierde el semestre o cambia de programa curricular, pierde el crédito condonable o debe pagar de inmediato su valor para poder continuar?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse11" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>Conforme al Reglamento Operativo del Programa Ser Pilo Paga 2, si el estudiante pierde una materia, un semestre o se cambia de programa curricular, el estudiante no pierde el crédito condonable, no se detienen los desembolsos de matrícula o su apoyo de sostenimiento desde ICETEX. Por el contrario, se continúa girando hasta la totalidad de giros correspondientes a la duración del programa curricular con el que se aprobó el crédito, previa actualización de datos en la página web del ICETEX semestre a semestre.<br />
-                                        Una vez culminados estos desembolsos y no antes, los periodos adicionales por pérdida de semestre o por cambio de programa curricular deberán ser cancelados por el usuario. Si la Institución de Educación Superior solo le permite ver una materia o curso, dada la condición académica en la que quede el estudiante, es un tema netamente académico que define la Institución misma.</p>
-                                </div>
-                            </div>
-                            <!--#collapse11-->
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">
-                                        12. ¿El beneficiario de Ser Pilo Paga, cuenta con servicio de salud en la ciudad a dónde se ha desplazado a cursar su carrera?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse12" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>Si, a través del trámite de PORTABILIDAD cualquier afiliado y/o su familia podrá solicitar a su EPS que le asigne una IPS en el municipio donde se encuentre transitoriamente, garantizando el accedo a todos los servicios del Plan Obligatorio de Salud. Esta solicitud aplica cuando el afiliado (en este caso el Pilo) se desplace de forma temporal, ocasional a un municipio diferente al que reside y se encuentra afiliado, por un periodo superior a un (1) mes e inferior a doce meses (12).<br />
-                                        Los jóvenes beneficiarios deberán realizar el trámite de Portabilidad 15 días antes de desplazarse a la ciudad de la Institución de Educación Superior donde cursará sus estudios para garantizar su servicio de salud, según lo estipulado en el Decreto 1683 de 2013, expresando que el motivo de su desplazamiento es académico y que será solo por cuatro meses, dos veces al año. Esta solicitud la podrá realizar a través de la línea telefónica de atención al usuario, por escrito, por correo electrónico o a través de la página web de la entidad prestadora del servicio, en el botón de Portabilidad.<br />
-                                        No es necesario que los jóvenes realicen un traslado de EPS, en tanto al solicitar una nueva encuesta socio-económica de SISBEN, el puntaje por el cual se hizo merecedor del crédito condonable puede cambiar. Se debe tener en cuenta que por las características del proceso académico, la Portabilidad es la opción idónea para los Pilos puesto que permite el acceso a los servicios de salud en cualquier lugar del territorio nacional.</p>
-                                </div>
-                            </div>
-                            <!--#collapse12-->
-                        </div>
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse13">
-                                        13. ¿En los casos de trasferencia interna de beneficiarios entre programas curriculares de la misma Institución de Educación Superior en los que se acepta la homologación de materias, cómo se ajusta el desembolso de ICETEX?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse13" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p>El beneficiario por medio de la Institución de Educación Superior, debe informar por escrito al ICETEX el cambio de programa, especificando la duración del mismo. El ICETEX posterior al recibido de la comunicación, realizará el ajuste en el sistema para tramitar el pago del valor de los semestres faltantes, es decir, si el beneficario se encuentra en segundo semestre de un programa de 10 semestres y se cambia otro programa con la misma duración, el ICETEX girará los 8 semestres faltantes de su carrera inicial.<br />
-                                        El valor específico del desembolso de matrícula semestre a semestre depende del reporte de materias inscritas y trámite de notificación de la situación del estudiante por parte de la Institución de Educación Superior al ICETEX.</p>
-                                </div>
-                            </div>
-                            <!--#collapse13-->
-                        </div>
-
+                          <p>En coherencia con lo establecido en el Artículo 28 de la Ley 30 de 1992, “La autonomía universitaria consagra en la Constitución Política de Colombia y de conformidad con la presente ley, reconoce a las universidades el derecho a darse y modificar sus estatutos, designar sus autoridades académicas y administrativas, crear, organizar y desarrollar sus programas académicos, definir y organizar sus labores formativas, académicas, docentes, científicas y culturales, otorgar los títulos correspondientes, seleccionar a sus profesores, admitir a sus alumnos y adoptar sus correspondientes regímenes y establecer, arbitrar y aplicar sus recursos para el cumplimiento de su misión social y de su función institucional”.</p>
+                      </div>
+                  </div>
+                  <!--#collapse10-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">
+                              11. ¿El joven beneficiario de Ser Pilo Paga que pierde una materia, pierde el semestre o cambia de programa curricular, pierde el crédito condonable o debe pagar de inmediato su valor para poder continuar?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse11" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p>Conforme al Reglamento Operativo del Programa Ser Pilo Paga 2, si el estudiante pierde una materia, un semestre o se cambia de programa curricular, el estudiante no pierde el crédito condonable, no se detienen los desembolsos de matrícula o su apoyo de sostenimiento desde ICETEX. Por el contrario, se continúa girando hasta la totalidad de giros correspondientes a la duración del programa curricular con el que se aprobó el crédito, previa actualización de datos en la página web del ICETEX semestre a semestre.<br />
+                              Una vez culminados estos desembolsos y no antes, los periodos adicionales por pérdida de semestre o por cambio de programa curricular deberán ser cancelados por el usuario. Si la Institución de Educación Superior solo le permite ver una materia o curso, dada la condición académica en la que quede el estudiante, es un tema netamente académico que define la Institución misma.</p>
+                      </div>
+                  </div>
+                  <!--#collapse11-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">
+                              12. ¿El beneficiario de Ser Pilo Paga, cuenta con servicio de salud en la ciudad a dónde se ha desplazado a cursar su carrera?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse12" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p>Si, a través del trámite de PORTABILIDAD cualquier afiliado y/o su familia podrá solicitar a su EPS que le asigne una IPS en el municipio donde se encuentre transitoriamente, garantizando el accedo a todos los servicios del Plan Obligatorio de Salud. Esta solicitud aplica cuando el afiliado (en este caso el Pilo) se desplace de forma temporal, ocasional a un municipio diferente al que reside y se encuentra afiliado, por un periodo superior a un (1) mes e inferior a doce meses (12).<br />
+                              Los jóvenes beneficiarios deberán realizar el trámite de Portabilidad 15 días antes de desplazarse a la ciudad de la Institución de Educación Superior donde cursará sus estudios para garantizar su servicio de salud, según lo estipulado en el Decreto 1683 de 2013, expresando que el motivo de su desplazamiento es académico y que será solo por cuatro meses, dos veces al año. Esta solicitud la podrá realizar a través de la línea telefónica de atención al usuario, por escrito, por correo electrónico o a través de la página web de la entidad prestadora del servicio, en el botón de Portabilidad.<br />
+                              No es necesario que los jóvenes realicen un traslado de EPS, en tanto al solicitar una nueva encuesta socio-económica de SISBEN, el puntaje por el cual se hizo merecedor del crédito condonable puede cambiar. Se debe tener en cuenta que por las características del proceso académico, la Portabilidad es la opción idónea para los Pilos puesto que permite el acceso a los servicios de salud en cualquier lugar del territorio nacional.</p>
+                      </div>
+                  </div>
+                  <!--#collapse12-->
+              </div>
+              <div class="panel panel-default">
+                  <div class="panel-heading">
+                      <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapse13">
+                              13. ¿En los casos de trasferencia interna de beneficiarios entre programas curriculares de la misma Institución de Educación Superior en los que se acepta la homologación de materias, cómo se ajusta el desembolso de ICETEX?
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapse13" class="panel-collapse collapse">
+                      <div class="panel-body">
+                          <p>El beneficiario por medio de la Institución de Educación Superior, debe informar por escrito al ICETEX el cambio de programa, especificando la duración del mismo. El ICETEX posterior al recibido de la comunicación, realizará el ajuste en el sistema para tramitar el pago del valor de los semestres faltantes, es decir, si el beneficario se encuentra en segundo semestre de un programa de 10 semestres y se cambia otro programa con la misma duración, el ICETEX girará los 8 semestres faltantes de su carrera inicial.<br />
+                              El valor específico del desembolso de matrícula semestre a semestre depende del reporte de materias inscritas y trámite de notificación de la situación del estudiante por parte de la Institución de Educación Superior al ICETEX.</p>
+                      </div>
+                  </div>
+                  <!--#collapse13-->
+              </div>
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
@@ -1152,58 +1145,55 @@
                         </div>
 
 
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse23">
-                                        23. ¿Qué cubre el programa Ser Pilo Paga, Profe?
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse23" class="panel-collapse collapse">
-                                <div class="panel-body">
-                                    <p><strong>La Convocatoria Ser Pilo Paga 2 entregará 11 mil créditos condonables de los cuales se destinarán hasta mil de ellos para formar a los futuros docentes del país con Ser Pilo Paga, Profe. Para ello, se incentivará a los jóvenes más pilos para que escojan la noble profesión docente, estudiando programas de Licenciaturas o los programas descritos a continuación.<br />
-                                            Se costeará el 100% de los estudios a través de créditos condonables en la modalidad de doble programa, es decir, los beneficiarios podrán estudiar dos programas curriculares de acuerdo a los siguientes criterios:<br />
-                                            <strong><strong>Opción 1. Inicias con una Licenciatura</strong></strong><br />
-                                            Inicia estudiando una Licenciatura con el crédito condonable Ser Pilo Paga, Profe y en el primer año a partir del inicio de tu programa, debes informar tu interés de realizar una doble titulación. Escoge un segundo programa entre las siguientes opciones: </strong></p>
-
-                                    <ul>
-                                        <li>
-                                            <ul>
-                                                <li><strong><strong><strong>Cursar un programa en licenciaturas y otro programa de pregrado de los descritos en la lista anexa pregrados (Siempre y cuando la IES acreditada en alta calidad oferte esta modalidad).</strong></strong></strong></li>
-                                                <li><strong><strong><strong>Cursar un programa en licenciatura y un posgrado de maestría de las relacionadas en la lista anexa posgrados, la cual se podrá realizar en la misma IES. En caso de efectuarse en una IES acreditada en alta calidad diferente a la del pregrado el beneficiario deberá contar con un promedio ponderado de 4 en el pregrado</strong></strong></strong></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-
-                                    <p><strong><strong><strong><strong>Incentivos adicionales que podrán obtener quienes elijan la opción 1 Inicias con Licenciatura</strong></strong></strong></strong></p>
-                                    &nbsp;
-
-                                    <p><strong><strong><strong>Incentivos adicionales que podrán obtener quienes elijan la opción 1 Inicias con Licenciatura</strong></strong></strong></p>
-                                    &nbsp;
-
-                                    <ul>
-                                        <li><strong><strong><strong>Apoyo para la formación en inglés para alcanzar un nivel B2. (Deberá presentar el certificado de idioma oficial expedido por un ente certificador autorizado).</strong></strong></strong></li>
-                                        <li><strong><strong><strong>Apoyo tecnológico con el fin de optener un computador portátil.</strong></strong></strong></li>
-                                    </ul>
-
-                                    <p><strong><strong><strong>&nbsp;</strong></strong></strong></p>
-
-                                    <p><strong><strong>Nota:</strong> En caso de que cualquier beneficiario de Ser Pilo Paga, Profe decida realizar cambio de Programa a uno que no corresponda a la doble titulación descrita, deberá retornar al ICETEX los recursos correspondientes al valor total del incentivo de movilidad internacional, apoyo para formación en inglés y apoyo tecnológico, a través de los procesos de recuperación de cartera establecidos, una vez culmine su carrera.<br />
-                                            <strong>Opción 2. </strong><br />
-                                            Inicia estudiando uno de los programas reportados lista anexa pregrados y en el primer año a partir del inicio de tu programa, debes informar tu interés de realizar una doble titulación. Escoge un segundo programa entre las siguientes opciones: </strong></p>
-
-                                    <ul>
-                                        <li><strong><strong><strong>Cursar inicialmente uno de los programas reportados lista anexa pregrado y una licenciatura (Siempre y cuando la IES acreditada en alta calidad oferte esta modalidad).</strong></strong></strong></li>
-                                    </ul>
-                                    <strong><strong><strong>Cursar uno de los programas reportados en la lista anexa pregrado y una maestría en Educación, la cual se podrá realizar en la misma IES. En caso de efectuarse en una IES acreditada en alta calidad diferente a la del pregrado el beneficiario deberá contar con un promedio ponderado de 4 en el pregrado.</strong></strong></strong></div>
-                            </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse23">
+                                    23. ¿Qué cubre el programa Ser Pilo Paga, Profe?
+                                </a>
+                            </h4>
                         </div>
+                        <div id="collapse23" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p><strong>La Convocatoria Ser Pilo Paga 2 entregará 11 mil créditos condonables de los cuales se destinarán hasta mil de ellos para formar a los futuros docentes del país con Ser Pilo Paga, Profe. Para ello, se incentivará a los jóvenes más pilos para que escojan la noble profesión docente, estudiando programas de Licenciaturas o los programas descritos a continuación.<br />
+                                        Se costeará el 100% de los estudios a través de créditos condonables en la modalidad de doble programa, es decir, los beneficiarios podrán estudiar dos programas curriculares de acuerdo a los siguientes criterios:<br />
+                                        <strong><strong>Opción 1. Inicias con una Licenciatura</strong></strong><br />
+                                        Inicia estudiando una Licenciatura con el crédito condonable Ser Pilo Paga, Profe y en el primer año a partir del inicio de tu programa, debes informar tu interés de realizar una doble titulación. Escoge un segundo programa entre las siguientes opciones: </strong></p>
+
+                                <ul>
+                                    <li>
+                                        <ul>
+                                            <li><strong><strong><strong>Cursar un programa en licenciaturas y otro programa de pregrado de los descritos en la lista anexa pregrados (Siempre y cuando la IES acreditada en alta calidad oferte esta modalidad).</strong></strong></strong></li>
+                                            <li><strong><strong><strong>Cursar un programa en licenciatura y un posgrado de maestría de las relacionadas en la lista anexa posgrados, la cual se podrá realizar en la misma IES. En caso de efectuarse en una IES acreditada en alta calidad diferente a la del pregrado el beneficiario deberá contar con un promedio ponderado de 4 en el pregrado</strong></strong></strong></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+
+                                <p><strong><strong><strong><strong>Incentivos adicionales que podrán obtener quienes elijan la opción 1 Inicias con Licenciatura</strong></strong></strong></strong></p>
+                                &nbsp;
+
+                                <p><strong><strong><strong>Incentivos adicionales que podrán obtener quienes elijan la opción 1 Inicias con Licenciatura</strong></strong></strong></p>
+                                &nbsp;
+
+                                <ul>
+                                    <li><strong><strong><strong>Apoyo para la formación en inglés para alcanzar un nivel B2. (Deberá presentar el certificado de idioma oficial expedido por un ente certificador autorizado).</strong></strong></strong></li>
+                                    <li><strong><strong><strong>Apoyo tecnológico con el fin de optener un computador portátil.</strong></strong></strong></li>
+                                </ul>
+
+                                <p><strong><strong><strong>&nbsp;</strong></strong></strong></p>
+
+                                <p><strong><strong>Nota:</strong> En caso de que cualquier beneficiario de Ser Pilo Paga, Profe decida realizar cambio de Programa a uno que no corresponda a la doble titulación descrita, deberá retornar al ICETEX los recursos correspondientes al valor total del incentivo de movilidad internacional, apoyo para formación en inglés y apoyo tecnológico, a través de los procesos de recuperación de cartera establecidos, una vez culmine su carrera.<br />
+                                        <strong>Opción 2. </strong><br />
+                                        Inicia estudiando uno de los programas reportados lista anexa pregrados y en el primer año a partir del inicio de tu programa, debes informar tu interés de realizar una doble titulación. Escoge un segundo programa entre las siguientes opciones: </strong></p>
+
+                                <ul>
+                                    <li><strong><strong><strong>Cursar inicialmente uno de los programas reportados lista anexa pregrado y una licenciatura (Siempre y cuando la IES acreditada en alta calidad oferte esta modalidad).</strong></strong></strong></li>
+                                </ul>
+                                <strong><strong><strong>Cursar uno de los programas reportados en la lista anexa pregrado y una maestría en Educación, la cual se podrá realizar en la misma IES. En caso de efectuarse en una IES acreditada en alta calidad diferente a la del pregrado el beneficiario deberá contar con un promedio ponderado de 4 en el pregrado.</strong></strong></strong></div>
+                        </div>
+
                         <!--#collapse23-->
                     </div>
-
-
-
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -1529,4 +1519,3 @@
 
 </body>
 </html>
-
