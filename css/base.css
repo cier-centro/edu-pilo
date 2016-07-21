@@ -275,6 +275,21 @@
 .pilopaga .spp-publication-history h2{
     text-transform: uppercase;
     text-decoration: underline;
+    padding-left: 50px;
+    background: url('../img/title-icons.png') no-repeat;
+    background-position: 0 -104px;
+}
+
+.pilopaga .spp-redes-sociales .view-content .views-row-1 .view-content .titulo-spp-home h3{
+    padding-left: 50px;
+    background: url('../img/title-icons.png') no-repeat;
+    background-position: 0 -104px;
+}
+
+.pilopaga .spp-redes-sociales .view-content .views-row-2 .view-content .titulo-spp-home h3{
+    padding-left: 50px;
+    background: url('../img/title-icons.png') no-repeat;
+    background-position: 0 -104px;
 }
 
 /*@media */
