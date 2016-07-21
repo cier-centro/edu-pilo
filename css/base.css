@@ -239,6 +239,7 @@
     color:#5B5B5F !important;
     text-transform: uppercase;
     display: inline-block;
+		border-bottom: 2px solid;
 }
 .pilopaga .spp-site-destacados .icon-destacado{
     display: inline-block;
@@ -278,6 +279,8 @@
     color:#5B5B5F !important;
     text-transform: uppercase;
     display: inline-block;
+		margin-bottom: 20px;
+		border-bottom: 2px solid;
 }
 .pilopaga .spp-video-destacados .icon-video-destacado{
 		display: inline-block;
