@@ -253,16 +253,22 @@
     margin: 10px 22px;
     width: 89%;
     height: 95px;
+		padding: 0px;
 }
 .pilopaga .spp-site-destacados .spp-btn a{
-    color:transparent;
+		color:transparent;
+		height: 95px;
+		width: 100%;
+		display: block;
 }
 .pilopaga .spp-site-destacados .spp-btn a .spp-btn-colombiaprende{
-
 }
-
+.pilopaga .spp-site-destacados .spp-btn a .spp-btn-chatpiloso{
+}
+.pilopaga .spp-site-destacados .spp-btn a .spp-btn-piloteca{
+}
 .pilopaga .fb_reset{
-    display: none; 
+    display: none;
 }
 
 .pilopaga .spp-redes-sociales .view-content .titulo-spp-home a{
