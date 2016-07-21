@@ -325,6 +325,12 @@
     height: 40px;
     padding-top: 15px;
 }
+.pilopaga .spp-content p{
+	padding: 15px;
+}
+.pilopaga .spp-content iframe{
+	margin: 0 25%;
+}
 
 /*@media */
 @media (max-width: 1025px) {
