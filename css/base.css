@@ -265,18 +265,16 @@
     display: none; 
 }
 
-.pilopaga .spp-redes-sociales .view-content .titulo-spp-home h3 a {
+.pilopaga .spp-redes-sociales .view-content .titulo-spp-home a{
     text-transform: uppercase;
     text-decoration: underline;
     font-weight: bold;
     color: #808080;
 }
 
-.pilopaga .spp-publication-history titulo-spp-home{
+.pilopaga .spp-publication-history h2{
     text-transform: uppercase;
     text-decoration: underline;
-    font-weight: bold;
-    color: #808080;
 }
 
 /*@media */
