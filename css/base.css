@@ -262,10 +262,13 @@
 		display: block;
 }
 .pilopaga .spp-site-destacados .spp-btn a .spp-btn-colombiaprende{
+	background-color: #00515F;
 }
 .pilopaga .spp-site-destacados .spp-btn a .spp-btn-chatpiloso{
+	background-color: #1B978C;
 }
 .pilopaga .spp-site-destacados .spp-btn a .spp-btn-piloteca{
+	background-color: #3C3F60;
 }
 .pilopaga .fb_reset{
     display: none;
