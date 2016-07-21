@@ -261,11 +261,14 @@
 		width: 100%;
 		display: block;
 }
-.pilopaga .spp-site-destacados .spp-btn a .spp-btn-colombiaprende{
+.pilopaga .spp-site-destacados .spp-btn .spp-btn-colombiaprende{
+	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat center,#00515F;
 }
-.pilopaga .spp-site-destacados .spp-btn a .spp-btn-chatpiloso{
+.pilopaga .spp-site-destacados .spp-btn .spp-btn-chatpiloso{
+	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat center,#1B978C;
 }
-.pilopaga .spp-site-destacados .spp-btn a .spp-btn-piloteca{
+.pilopaga .spp-site-destacados .spp-btn .spp-btn-piloteca{
+	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat center,#3C3F60;
 }
 .pilopaga .fb_reset{
     display: none;
