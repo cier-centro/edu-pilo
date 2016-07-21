@@ -83,6 +83,12 @@
 .pilopaga .pilo-friends .friends-logos div {
 		height: 70px;
 		margin: 10px 0;
+		padding: 0;
+}
+.pilopaga .pilo-friends .friends-logos a {
+		height: 100%;
+    width: 100%;
+    display: block;
 }
 .pilopaga .pilo-friends .icetex-logo {
 		background: url('../img/icetex-logo.png') no-repeat center center / contain;
