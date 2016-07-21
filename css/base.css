@@ -265,7 +265,7 @@
     display: none; 
 }
 
-.pilopaga .spp-redes-sociales .view-content .titulo-spp-home h3 a:link {
+.pilopaga .spp-redes-sociales .view-content .titulo-spp-home h3 a {
     text-transform: uppercase;
     text-decoration: underline;
     font-weight: bold;
