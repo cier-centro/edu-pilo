@@ -262,13 +262,13 @@
 		display: block;
 }
 .pilopaga .spp-site-destacados .spp-btn .spp-btn-colombiaprende{
-	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat center,#00515F;
+	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-btn-colombiaprende.png) no-repeat center / contain ,#00515F;
 }
 .pilopaga .spp-site-destacados .spp-btn .spp-btn-chatpiloso{
-	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat center,#1B978C;
+	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-btn-chatpiloso.png) no-repeat center / contain,#1B978C;
 }
-.pilopaga .spp-site-destacados .spp-btn .spp-btn-piloteca{
-	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat center,#3C3F60;
+.pilopaga .spp-site-destacados .spp-btn .spp-btn-pilotecav{
+	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-btn-piloteca.png) no-repeat center / contain,#3C3F60;
 }
 .pilopaga .fb_reset{
     display: none;
@@ -325,7 +325,7 @@
         width:100%;
         border-left: 0px;
     }
-    
+
     .pilopaga .spp-publication-history {
         float: left;
         height: 335px;
@@ -335,7 +335,7 @@
         align-items: center;
         width: auto;
     }
-    
+
     .pilopaga .spp-publication-history h2 {
         text-transform: uppercase;
         text-decoration: underline;
@@ -345,12 +345,12 @@
         height: 40px;
         padding-top: 10px;
     }
-    
+
     .pilopaga .spp-redes-sociales .view-content .views-row-1 {
         display: inline-block;
         width: auto;
     }
-    
+
     .pilopaga .spp-redes-sociales .view-content .views-row-2 {
         padding-left: 30px;
         display: inline-block;
