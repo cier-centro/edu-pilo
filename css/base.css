@@ -195,9 +195,14 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
   display: inline-block;
   vertical-align: top;
 }
+.pilopaga .spp-site-destacados .row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
 .pilopaga .spp-video-destacados{
 	width: 60%;
 	display:inline-block;
+	padding: 0 10px 15px 0;
 }
 .pilopaga .panel-separator{
 	display:none;
@@ -243,7 +248,10 @@ box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 	margin: 0 10px;
 }
 .pilopaga .spp-site-destacados .spp-btn{
- padding:5px;
+	background-color: #e6e6e6;
+	margin: 10px 22px;
+	width: 89%;
+	height: 95px;
 }
 .pilopaga .spp-site-destacados .spp-btn a{
 	color:transparent;
