@@ -342,6 +342,9 @@
     }
 }
 @media (max-width: 780px) {
+		.pilopaga .toggle_primary_menu{
+			display:none;
+		}
 		.pilopaga .spp-site-destacados{
 			width: 100%;
 		}
