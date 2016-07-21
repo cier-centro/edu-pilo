@@ -47,7 +47,7 @@
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
+
 .pilopaga .vid iframe,
 .pilopaga .vid object,
 .pilopaga .vid embed {
@@ -147,6 +147,16 @@
 .pilopaga .content-interno .new_sbtitle a
 {
 	text-decoration: none;
+}
+
+.pilopaga .study-options .general_title hr, .pilopaga .study-options .general_title div
+{
+	display: none;
+}
+
+.pilopaga .study-options .general_title h2
+{
+	margin: 0;
 }
 
 /*COMENTARIO*/
