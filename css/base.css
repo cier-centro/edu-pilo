@@ -215,6 +215,7 @@
     height: 335px;
     overflow: auto;
     padding-top: 3px;
+    z-index: 1;
 }
 
 .pilopaga .spp-redes-sociales .view-content{
