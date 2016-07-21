@@ -250,7 +250,7 @@
 }
 .pilopaga .spp-site-destacados .spp-btn{
     background-color: #e6e6e6;
-    margin: 10px 22px;
+    margin: 8px 22px;
     width: 89%;
     height: 95px;
 		padding: 0px;
@@ -324,6 +324,12 @@
     }
 }
 @media (max-width: 780px) {
+		.pilopaga .spp-site-destacados{
+			width: 100%;
+		}
+		.pilopaga .spp-video-destacados{
+			width: 100%;
+		}
     .pilopaga .pane-menu-menu-ser-pilo-paga ul li,.pilopaga .pane-menu-menu-ser-pilo-paga ul li:first-child{
         width:100%;
         border-left: 0px;
