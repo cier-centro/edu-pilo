@@ -149,7 +149,8 @@
 	text-decoration: none;
 }
 
-.pilopaga .study-options .general_title hr, .pilopaga .study-options .general_title div
+.pilopaga .study-options .general_title hr, .pilopaga .study-options .general_title div,
+.pilopaga .content-interno hr, .pilopaga .content-interno .ssp-view .fa
 {
 	display: none;
 }
@@ -158,6 +159,11 @@
 {
 	margin: 0;
 }
+
+.pilopaga .content-interno .ssp-view .general_title h2 {
+	margin: 10px 0;
+}
+
 .pilopaga .study-options .centr_cont .centr_cont .general_title h2
 {
 	cursor: pointer;

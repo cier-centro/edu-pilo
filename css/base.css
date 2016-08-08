@@ -5,7 +5,10 @@
     background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-bg-general.png) repeat, linear-gradient(to right,  rgb(0,171,211) 0%,rgb(29,186,217) 20%,rgb(29,186,217) 80%,rgb(0,171,211) 100%) ;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00abd3', endColorstr='#00abd3',GradientType=1 );
 }
-.pilopaga .section_content{
+.pilopaga .section_container {
+    width: 1024px;
+}
+.pilopaga .section_content {
     -webkit-box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
     box-shadow: 0 0 15px 2px rgba(0,0,0,0.3);
 }
@@ -54,27 +57,29 @@
     width:100%;
     text-align:center;
     text-transform:uppercase;
+    padding: 5px;
 }
 
 .pilopaga .pane-menu-menu-ser-pilo-paga ul li{
     display:inline-block;
     margin:26px 0px 30px 0px;
-    width:18%;
+    width:16%;
     box-sizing: border-box;
     border-left: solid 1px #1B978C;
     font-size: 13px;
-    white-space: nowrap;
+    white-space: pre-wrap;
 }
 .pilopaga .pane-menu-menu-ser-pilo-paga ul li:first-child{
     border-left: 0px;
     color: rgba(255, 255, 255, 0);
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/icoserpilopagahead.png) no-repeat;
+    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/icoserpilopagahead.png) no-repeat  center center / contain;
     background-position:center;
-    width: 24%;
+    width: 21%;
     margin: 0px;
     padding: 0px;
     line-height: 100px;
     z-index: 100;
+    min-width: 175px;
 }
 .pilopaga .pane-menu-menu-ser-pilo-paga ul li:first-child a{
     color:rgba(255, 255, 255, 0);
@@ -347,6 +352,25 @@
         width: 50%;
     }
 }
+
+@media (min-width: 781px) and (max-width: 1025px) {
+    .pilopaga .pane-menu-menu-ser-pilo-paga ul li a {
+        font-size: 12px;
+      }
+}
+
+@media (min-width: 781px) {
+    .pilopaga .pane-content .menu {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .pilopaga .pane-content .menu li {
+        display: flex;
+        align-items: center;
+    }
+}
+
 @media (max-width: 780px) {
 		.pilopaga .toggle_primary_menu{
 			display:none;
@@ -408,7 +432,6 @@
         text-align: center;
         padding: 0 15px !important;
     }
-
 }
 @media (max-width: 770px) {
     .pilopaga .views-slideshow-cycle-main-frame{
