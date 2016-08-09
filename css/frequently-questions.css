@@ -13,6 +13,16 @@
 .pilopaga .questions-frequently .panel-default:nth-child(even) {
     border-color: #850252;
 }
+.pilopaga .questions-frequently .panel-default> .panel-heading {
+		padding: 0;
+}
+.pilopaga .questions-frequently .panel-default>.panel-heading a {
+		display: block;
+    height: 100%;
+    width: 100%;
+    padding: 10px 15px;
+		text-align: left;
+}
 .pilopaga .questions-frequently .panel-default>.panel-heading h4{
 		color: white;
 }
