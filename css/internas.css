@@ -149,13 +149,13 @@
 	text-decoration: none;
 }
 
-.pilopaga .study-options .general_title hr, .pilopaga .study-options .general_title div,
+.pilopaga .general_title hr, .pilopaga .general_title div,
 .pilopaga .content-interno hr, .pilopaga .content-interno .ssp-view .fa
 {
 	display: none;
 }
 
-.pilopaga .study-options .general_title h2
+.pilopaga .general_title h2
 {
 	margin: 0;
 }
