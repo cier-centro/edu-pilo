@@ -347,16 +347,29 @@
         margin-bottom: 0px;
     }
 }
+
+@media (min-width: 1024px) {
+    .pilopaga .spp-site-destacados {
+        height: 410px;
+        overflow: auto;
+    }
+}
+
 @media (max-width: 850px) {
     .pilopaga .pilopaga-menu-secundario .view-content .views-row{
         width: 50%;
     }
 }
 
-@media (min-width: 781px) and (max-width: 1025px) {
+@media (min-width: 781px) and (max-width: 1023px) {
     .pilopaga .pane-menu-menu-ser-pilo-paga ul li a {
         font-size: 12px;
-      }
+    }
+
+    .pilopaga .spp-site-destacados {
+        height: 39vw;
+        overflow: auto;
+    }
 }
 
 @media (min-width: 781px) {
@@ -433,6 +446,7 @@
         padding: 0 15px !important;
     }
 }
+
 @media (max-width: 770px) {
     .pilopaga .views-slideshow-cycle-main-frame{
         height: 170px!important;
@@ -442,6 +456,7 @@
         margin-bottom: 0px;
     }
 }
+
 @media (max-width: 600px) {
     .pilopaga .pilopaga-menu-secundario .view-content .views-row{
         width: 100%;
