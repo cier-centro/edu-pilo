@@ -82,6 +82,11 @@
 	cursor: pointer;
 }
 
+.pilopaga .content-interno .general_title h2
+{
+	cursor: pointer;
+}
+
 /*EDIT NODOS*/
 
 .pilopaga .content-interno a
@@ -162,12 +167,6 @@
 
 .pilopaga .content-interno .ssp-view .general_title h2 {
 	margin: 10px 0;
-}
-
-.pilopaga .study-options .centr_cont .centr_cont .general_title h2,
-.pilopaga .content-interno .ssp-view .general_title h2
-{
-	cursor: pointer;
 }
 
 /*COMENTARIO*/
