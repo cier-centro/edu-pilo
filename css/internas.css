@@ -169,4 +169,12 @@
 	margin: 10px 0;
 }
 
+.pilopaga .queteinteresa table input, .pilopaga .habilidades table input {
+	position: relative;
+  margin: 0;
+}
+
+.pilopaga .queteinteresa table td > div, .pilopaga .habilidades table td > div {
+	margin-left: 20%;
+}
 /*COMENTARIO*/
