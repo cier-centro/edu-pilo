@@ -190,4 +190,28 @@
 	list-style-type: decimal;
 }
 
+.pilopaga .teacher-pilo strong {
+	color: #808080;
+	margin: 15px 0;
+	display: inline-block;
+	text-decoration: blink;
+}
+
+.pilopaga .papaspilos h4 {
+  font-size: 1.2em;
+}
+
+.pilopaga .ssp-view .num_pso div, .pilopaga .ssp-view .num_pso h5,
+.pilopaga .advices-spp h4 {
+	display: inline-block;
+}
+
+.pilopaga .advices-spp h4 {	
+    margin-bottom: 0px;
+}
+
+.pilopaga .advices-spp .ta_lft {
+	display: inline;
+}
+
 /*COMENTARIO*/

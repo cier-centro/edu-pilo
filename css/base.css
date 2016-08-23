@@ -88,10 +88,10 @@
 .pilopaga .views-slideshow-cycle-main-frame{
     overflow:hidden;
     width: 100%!important;
-    height: 335px!important;
+    height: 360px!important;
 }
 .pilopaga .pilopaga-slideshow .view-content{
-    height:335px;
+    height:360px;
 }
 .pilopaga .pilopaga-slideshow .views-slideshow-controls-bottom{
     position:relative;
@@ -214,30 +214,44 @@
 }
 
 .pilopaga .spp-publication-history{
-    width: 30%;
-    float: left;
-    padding-left: 15px;
-    height: 335px;
-    overflow: auto;
-    padding-top: 3px;
-    z-index: 1;
+  width: 30%;
+  float: left;
+  height: 340px;
+  overflow: auto;
+  z-index: 1;
+  margin-top: 15px;
+  margin-left: 25px;
+  border: solid 1px #cdcdcd;
+  padding: 0px 5px;
+  background-color: white;
 }
 
 .pilopaga .spp-redes-sociales .view-content{
-    display: -webkit-inline-box;
-    width: 70%;
-    padding: 5px 0px 25px 20px;
+  display: -webkit-inline-box;
+  width: 65%;
+  padding: 5px 0px 15px 28px;
 }
 
 .pilopaga .spp-redes-sociales .view-content .views-row-1 {
-    width: 44%;
-    display:inline-block;
+  width: 44%;
+  display: inline-block;
+  margin-top: 9px;
+  border: 1px solid #cdcdcd;
+  height: 340px;
+  overflow: hidden;
 }
-
 .pilopaga .spp-redes-sociales .view-content .views-row-2{
-    padding-left: 30px;
-    width: 54%;
-    display:inline-block;
+  float: right;
+  width: 54%;
+  display: inline-block;
+  margin-top: 9px;
+  border: 1px solid #cdcdcd;
+  height: 340px;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.fb-page.fb_iframe_widget iframe{
+  width: 500px!important;
 }
 
 .pilopaga .spp-site-destacados h2{
@@ -256,11 +270,14 @@
     margin: 0 10px;
 }
 .pilopaga .spp-site-destacados .spp-btn{
-    background-color: #e6e6e6;
-    margin: 8px 22px;
-    width: 89%;
-    height: 95px;
-		padding: 0px;
+  background-color: #e6e6e6;
+  margin: 13px 22px;
+  width: 89%;
+  height: 95px;
+  padding: 0px;
+}
+.pilopaga .spp-site-destacados .spp-btn:last-child{
+  margin-bottom: 0px;
 }
 .pilopaga .spp-site-destacados .spp-btn a{
 		color:transparent;
@@ -336,15 +353,23 @@
 .pilopaga .spp-content iframe{
 	margin: 0 25%;
 }
+.pilopaga .spp-video-destacados .embed-responsive {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 6px;
+}
 
 /*@media */
 @media (max-width: 1025px) {
     .pilopaga .views-slideshow-cycle-main-frame{
-        height: 250px!important;
+        height: 34vw !important;
     }
     .pilopaga .pilopaga-slideshow .view-content{
-        height:250px;
+        height:32vw;
         margin-bottom: 0px;
+    }
+    .pilopaga .pilopaga-slideshow .views-slideshow-controls-bottom {
+        top: -23vw;
     }
 }
 
@@ -447,12 +472,12 @@
     }
 }
 
-@media (max-width: 770px) {
-    .pilopaga .views-slideshow-cycle-main-frame{
-        height: 170px!important;
+@media (max-width: 767px) {
+    .pilopaga .pilopaga-slideshow .views-slideshow-controls-bottom {
+        top: -26vw;
     }
     .pilopaga .pilopaga-slideshow .view-content{
-        height:170px;
+        height:27vw;
         margin-bottom: 0px;
     }
 }

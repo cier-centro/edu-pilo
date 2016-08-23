@@ -5,13 +5,14 @@
 		width: 100% !important;
 }
 .pilopaga .button-notes-view .view-content {
-    display: flex;
-    padding-right: 15px;
+	display: flex;
+	padding-right: 15px;
+	margin: 25px 0;
 }
 .pilopaga .button-notes-view .view-content > div {
-    margin-left: 15px;
-    width: 18.4%;
-		overflow: hidden;
+	margin-left: 22px;
+	width: 32.1%;
+	overflow: hidden;
 }
 .pilopaga .button-notes-view .views-row-1 {
     background: #FCC251;
@@ -37,7 +38,10 @@
 .pilopaga .button-notes-view img {
     max-width: none;
     height: 100%;
-		margin: 0 -25%;
+		margin: 0 1%;
+}
+.pilopaga .button-notes-view .views-row:nth-child(2) img{
+	margin: 0 -1%;
 }
 .pilopaga .button-notes-view .views-field-title {
     padding: 10px;
