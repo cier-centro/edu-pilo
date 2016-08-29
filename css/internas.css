@@ -154,10 +154,21 @@
 	text-decoration: none;
 }
 
+.pilopaga .ssp-view .place td {
+	padding: 5px;
+}
+
 .pilopaga .general_title hr, .pilopaga .general_title div,
 .pilopaga .content-interno hr, .pilopaga .content-interno .ssp-view .fa
 {
 	display: none;
+}
+
+.pilopaga .content-interno .ssp-view .modal-dialog ul > .fa
+{
+	list-style-type: disc;
+	display: list-item;
+	margin-left: 20px;
 }
 
 .pilopaga .general_title h2
@@ -206,7 +217,7 @@
 	display: inline-block;
 }
 
-.pilopaga .advices-spp h4 {	
+.pilopaga .advices-spp h4 {
     margin-bottom: 0px;
 }
 

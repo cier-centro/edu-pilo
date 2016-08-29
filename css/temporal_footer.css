@@ -34,14 +34,24 @@
     display: flex;
     align-items: center;
     background: black;
+		overflow: hidden;
+}
+.pilopaga .button-notes-view .views-field-field-imagen-del-articulo a {
+		position: absolute;
+		left: 50%;
+		transform: translate(-50%, 0%);
+}
+.pilopaga .button-notes-view .views-field-field-imagen-del-articulo .field-content {
+		overflow: hidden;
+		height: 100%;
+		padding: 5px;
+		margin: 0 5px;
+		position: relative;
+		width: 100%;
 }
 .pilopaga .button-notes-view img {
-    max-width: none;
-    height: 100%;
-		margin: 0 1%;
-}
-.pilopaga .button-notes-view .views-row:nth-child(2) img{
-	margin: 0 -1%;
+		max-width: none;
+		width: auto;
 }
 .pilopaga .button-notes-view .views-field-title {
     padding: 10px;

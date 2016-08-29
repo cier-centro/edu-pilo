@@ -250,8 +250,9 @@
   overflow: hidden;
   background-color: #ffffff;
 }
-.fb-page.fb_iframe_widget iframe{
-  width: 500px!important;
+.pilopaga .fb-page.fb_iframe_widget iframe,
+.pilopaga .fb-page.fb_iframe_widget span {
+  width: 400px!important;
 }
 
 .pilopaga .spp-site-destacados h2{
