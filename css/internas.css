@@ -227,46 +227,78 @@
 
 /*COMENTARIO*/
 
-.study-place .col-xs-12 {
-		padding-left: 0;
-}
-
-.study-place .btn-warning {
+.pilopaga .study-place .btn-warning {
 		background: #BABD51;
 		border: 1px solid #BABD51;
 		margin: auto;
 		display: block;
 }
 
-.study-place .btn-warning:hover {
+.pilopaga .study-place .btn-warning:hover {
 		background: #a3a648;
 		border: 1px solid #a3a648;
 }
 
-.study-place .control-label {
+.pilopaga .study-place .control-label {
 		font-size: 20px;
 		color: #BABD51;
 		font-weight: 900;
 }
 
-.study-place .form-control {
+.pilopaga .study-place .form-control {
 		border: 2px solid #BABD51;
 }
 
-.study-place .table>thead>tr>th:last-child, .study-place .table>tbody>tr>td:last-child {
+.pilopaga .study-place .table>thead>tr>th:last-child,
+.pilopaga .study-place .table>tbody>tr>td:last-child {
 		width: 600px;
 		overflow: hidden;
 		text-overflow: ellipsis;
 		white-space: nowrap;
+}
+
+.pilopaga .study-place .table>tbody>tr>td:last-child {
 		display: block;
 }
 
-.study-place .table>tbody>tr>td, .table>thead>tr>th {
+.pilopaga .study-place .table>thead>tr>th:last-child {
+		display: table-cell;
+}
+
+.pilopaga .study-place .table>tbody>tr>td,
+.pilopaga .study-place .table>thead>tr>th {
 		text-align: center;
 		font-size: 14px;
 }
 
-.study-place .table>thead>tr>th {
+.pilopaga .study-place .table>thead>tr>th {
 		background: #BABD51;
 		color: white;
+		vertical-align: middle;
+}
+
+.pilopaga .study-place dir-pagination-controls {
+		display: block;
+}
+
+.pilopaga .study-place dir-pagination-controls .pagination>li>a,
+.pilopaga .study-place dir-pagination-controls .pagination>li>span {
+		color: #BABD51;
+		font-weight: 600;
+}
+
+.pilopaga .study-place dir-pagination-controls .pagination>.active>a,
+.pilopaga .study-place dir-pagination-controls .pagination>.active>span {
+		background: #BABD51 !important;
+		color: white;
+		border-color: #BABD51 !important;
+}
+
+@media (min-width: 768px){
+		.pilopaga .study-place .col-xs-12:nth-child(even) {
+			padding-right: 0;
+		}
+		.pilopaga .study-place .col-xs-12:nth-child(odd) {
+				padding-left: 0;
+		}
 }
