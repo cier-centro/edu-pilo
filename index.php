@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/internas.css">
 
-<div ng-module="pilo">
+<div ng-module="pilo" class="pilopaga">
     <div ng-controller="piloController">
         <div class="row study-place">
             <div class="container">

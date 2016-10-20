@@ -4,12 +4,12 @@ app = angular.module('pilo', ['angularUtils.directives.dirPagination']);
 
 app.controller('piloController', function($scope, $http) {
     var obj = '';
-    $http.get('service/Resources/Base-pilos.json').success(function(data) {
+    $http.get('https://dl.dropboxusercontent.com/u/575652037/edu-pilo/service/Resources/Base-pilos.json').success(function(data) {
         obj = data;
     });
 
     $scope.ies = [];
-    $http.get('service/Resources/Base-ies.json').success(function(data) {
+    $http.get('https://dl.dropboxusercontent.com/u/575652037/edu-pilo/service/Resources/Base-ies.json').success(function(data) {
         var arrayObject = '';
         angular.forEach(data, function(data) {
             arrayObject = {
@@ -20,7 +20,7 @@ app.controller('piloController', function($scope, $http) {
     });
     
     $scope.ciudades = [];
-    $http.get('service/Resources/Base-ciudades.json').success(function(data) {
+    $http.get('https://dl.dropboxusercontent.com/u/575652037/edu-pilo/service/Resources/Base-ciudades.json').success(function(data) {
         var arrayObject = '';
         angular.forEach(data, function(data) {
            arrayObject = {
@@ -31,7 +31,7 @@ app.controller('piloController', function($scope, $http) {
     });
     
     $scope.departamentos = [];
-    $http.get('service/Resources/Base-departamentos.json').success(function(data) {
+    $http.get('https://dl.dropboxusercontent.com/u/575652037/edu-pilo/service/Resources/Base-departamentos.json').success(function(data) {
         var arrayObject = '';
         angular.forEach(data, function(data) {
             arrayObject = {
@@ -42,7 +42,7 @@ app.controller('piloController', function($scope, $http) {
     });
     
     $scope.programas = [];
-    $http.get('service/Resources/Base-programas.json').success(function(data) {
+    $http.get('https://dl.dropboxusercontent.com/u/575652037/edu-pilo/service/Resources/Base-programas.json').success(function(data) {
         var arrayObject = '';
         angular.forEach(data, function(data) {
            arrayObject = {
