@@ -3,130 +3,117 @@ var app = "";
 app = angular.module('pilo', ['angularUtils.directives.dirPagination']);
 
 app.controller('piloController', function($scope, $http) {
+    var obj = '';
+    $http.get('service/Resources/Base-pilos.json').success(function(data) {
+        obj = data;
+    });
 
-    $scope.universities = [];
+    $scope.ies = [];
+    $http.get('service/Resources/Base-ies.json').success(function(data) {
+        var arrayObject = '';
+        angular.forEach(data, function(data) {
+            arrayObject = {
+                name: data.name.trim()
+            };
+            $scope.ies.push(arrayObject);
+        });
+    });
+    
+    $scope.ciudades = [];
+    $http.get('service/Resources/Base-ciudades.json').success(function(data) {
+        var arrayObject = '';
+        angular.forEach(data, function(data) {
+           arrayObject = {
+                name: data.name.trim()
+           };
+           $scope.ciudades.push(arrayObject);
+        });
+    });
+    
+    $scope.departamentos = [];
+    $http.get('service/Resources/Base-departamentos.json').success(function(data) {
+        var arrayObject = '';
+        angular.forEach(data, function(data) {
+            arrayObject = {
+                name: data.name.trim()
+            };
+            $scope.departamentos.push(arrayObject);
+        });
+    });
+    
+    $scope.programas = [];
+    $http.get('service/Resources/Base-programas.json').success(function(data) {
+        var arrayObject = '';
+        angular.forEach(data, function(data) {
+           arrayObject = {
+                name: data.name.trim()
+           };
+           $scope.programas.push(arrayObject);
+        });
+    });
 
     $scope.search = function() {
-        var obj = {content: null};
-
-        $http.get('service/Resources/base-pilos.json').success(function(data) {
-            obj.content = data;
-
-            angular.forEach(obj.content, function(spp) {
-                $scope.universities.push({
-                    position: spp.position,
-                    nameUniversity: spp.nameUniversity,
-                    sector: spp.sector,
-                    typeUniversity: spp.typeUniversity,
-                    isAccredited: spp.isAccredited
-                });
-            });
-        });
-    };
-    
-    $scope.searchByOtherFields = function() {
         
-        var obj = {content: null};
         var filterSearch = 0;
         var arrayObject = '';
         var numberFilterActive = 0;
+        $scope.pilos = [];
         
-        $scope.universities = [];
-        
-        $http.get('service/Resources/base-pilos.json').success(function(data) {
-            
-            obj.content = data;
-            
-            var isAccredited = document.getElementById('isAccredited').value;
-            var typeUniversity = document.getElementById('typeUniversity').value;
-            var sector = document.getElementById('sector').value;
-            var classificationGroup = document.getElementById('classificationGroup').value;
-            
-            if(isAccredited == "" && typeUniversity == "" && sector == "" && classificationGroup == ""){
-                alert("Favor seleccione al menos un criterio de busqueda.");
-                return false;
+        var ies = document.getElementById('ies').value;
+        var municipality = document.getElementById('municipality').value;
+        var deparment = document.getElementById('deparment').value;
+        var academicProgram = document.getElementById('academicProgram').value;
+
+        if(ies == "" && municipality == "" && deparment == "" && academicProgram == ""){
+            alert("Favor seleccione al menos un criterio de busqueda.");
+            return false;
+        }
+
+        if(ies)
+            numberFilterActive += 1;
+        if(municipality)
+            numberFilterActive += 1;
+        if(deparment)
+            numberFilterActive += 1;
+        if(academicProgram)
+            numberFilterActive += 1;
+
+        angular.forEach(obj, function(pilo) {
+            filterSearch = 0;
+            arrayObject = {
+                tipo_ies: pilo.tipo_ies.trim(),
+                numero_periodo: pilo.numero_periodo.trim(),
+                costo_matricula: pilo.costo_matricula.trim(),
+                fecha_cierre: pilo.fecha_cierre.trim(),
+                link: pilo.link.trim()
+            };
+
+            if(ies){
+                if(ies == pilo.ies.trim())
+                    filterSearch += 1;
             }
-            
-            if(isAccredited)
-                numberFilterActive += 1;
-            if(typeUniversity)
-                numberFilterActive += 1;
-            if(sector)
-                numberFilterActive += 1;
-            if(classificationGroup)
-                numberFilterActive += 1;
-            
-            angular.forEach(obj.content, function(mide) {
-                filterSearch = 0;
-                arrayObject = {
-                    position: mide.position,
-                    nameUniversity: mide.nameUniversity,
-                    sector: mide.sector,
-                    typeUniversity: mide.typeUniversity,
-                    isAccredited: mide.isAccredited
-                };
-                
-                if(isAccredited){
-                    if(isAccredited == mide.isAccredited)
-                        filterSearch += 1;
-                }
-                
-                if(typeUniversity){
-                    if(typeUniversity == mide.typeUniversity)
-                        filterSearch += 1;
-                   }
-                
-                if(sector){
-                    if(sector == mide.sector)
-                        filterSearch += 1;
-                }
-                
-                if(classificationGroup){
-                    if(classificationGroup == mide.classificationGroup)
-                        filterSearch = 1;
-                }
-                
-                if(filterSearch == numberFilterActive){
-                    $scope.universities.push(arrayObject);
-                }
-                
-            });
-        });
-    };
-    
-    $scope.searchByNameUniversities = function() {
-        
-        var obj = {content: null};
-        var arrayObject = '';
-        
-        $scope.universities = [];
-        
-        $http.get('https://dl.dropboxusercontent.com/u/575652037/mide/edu-mide/resources/base-mide.json').success(function(data) {
-            
-            obj.content = data;
-            
-            var nameUniversity = document.getElementById('nameUniversity').value;
-            
-            if(nameUniversity == ""){
-                alert("Favor seleccione al menos un criterio de busqueda.");
-                return false;
+
+            if(municipality){
+                if(municipality == pilo.ciudad.trim())
+                    filterSearch += 1;
+               }
+
+            if(deparment){
+                if(deparment == pilo.departamento.trim())
+                    filterSearch += 1;
             }
-            
-            angular.forEach(obj.content, function(mide) {
-                
-                arrayObject = {
-                    position: mide.position,
-                    nameUniversity: mide.nameUniversity,
-                    sector: mide.sector,
-                    typeUniversity: mide.typeUniversity,
-                    isAccredited: mide.isAccredited
-                };
-                
-                if (mide.nameUniversity.indexOf(nameUniversity) > -1 || mide.nameUniversity.toUpperCase().indexOf(nameUniversity.toUpperCase()) > -1)
-                    $scope.universities.push(arrayObject);
-                
-            });
+
+            if(academicProgram){
+                if(academicProgram == pilo.programa_academico.trim())
+                    filterSearch = 1;
+            }
+
+            if(filterSearch == numberFilterActive){
+                $scope.pilos.push(arrayObject);
+            }
+
         });
+        
     };
     
 });

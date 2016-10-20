@@ -1,65 +1,41 @@
 [
     {
-        "name": "Barranquilla "
+        "name": "Antioquia"
     },
     {
-        "name": "Bogotá "
+        "name": "Atlántico "
     },
     {
-        "name": "Bucaramanga"
+        "name": "Bolívar "
     },
     {
-        "name": "Cali"
+        "name": "Boyaca"
     },
     {
-        "name": "Cartagena"
+        "name": "Caldas "
     },
     {
-        "name": "Chía "
+        "name": "Cauca "
     },
     {
-        "name": "Cúcuta"
+        "name": "Cundinamarca"
     },
     {
-        "name": "Duitama"
+        "name": "Magdalena "
     },
     {
-        "name": "El Socorro"
+        "name": "Meta "
     },
     {
-        "name": "Manizales "
+        "name": "Norte de Santander"
     },
     {
-        "name": "Medellín "
+        "name": "Risaralda "
     },
     {
-        "name": "Palmira "
+        "name": "Santander "
     },
     {
-        "name": "Pereira"
-    },
-    {
-        "name": "Popayán"
-    },
-    {
-        "name": "Santa Marta "
-    },
-    {
-        "name": "Sogamoso"
-    },
-    {
-        "name": "Tunja"
-    },
-    {
-        "name": "Tunja - Chiquinquira"
-    },
-    {
-        "name": "Tunja - Sogamoso"
-    },
-    {
-        "name": "Tunja - Sogamoso - Chiquinquira"
-    },
-    {
-        "name": "Villavicencio"
+        "name": "Valle del Cauca "
     }
 ]
