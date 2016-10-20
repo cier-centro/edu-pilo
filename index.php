@@ -6,9 +6,9 @@
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/internas.css">
 
-<div ng-module="pilo" class="study-place">
+<div ng-module="pilo">
     <div ng-controller="piloController">
-        <div class="row">
+        <div class="row study-place">
             <div class="container">
                 <div id="dvSearch">
                     <form class="table table-responsive tbSearchPilos">

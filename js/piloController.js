@@ -105,7 +105,7 @@ app.controller('piloController', function($scope, $http) {
 
             if(academicProgram){
                 if(academicProgram == pilo.programa_academico.trim())
-                    filterSearch = 1;
+                    filterSearch += 1;
             }
 
             if(filterSearch == numberFilterActive){
