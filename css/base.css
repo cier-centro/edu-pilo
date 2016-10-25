@@ -1,8 +1,8 @@
 .pilopaga .main_container, .pilopaga {
     /*	background: rgb(0,171,211);*/
-    background:  url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-bg-general.png) repeat, -moz-linear-gradient(left,  rgb(0,171,211) 0%, rgb(29,186,217) 20%, rgb(29,186,217) 80%, rgb(0,171,211) 100%);
-    background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-bg-general.png) repeat, -webkit-linear-gradient(left,  rgb(0,171,211) 0%,rgb(29,186,217) 20%,rgb(29,186,217) 80%,rgb(0,171,211) 100%);
-    background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-bg-general.png) repeat, linear-gradient(to right,  rgb(0,171,211) 0%,rgb(29,186,217) 20%,rgb(29,186,217) 80%,rgb(0,171,211) 100%) ;
+    background:  url(../img/spp-bg-general.png) repeat, -moz-linear-gradient(left,  rgb(0,171,211) 0%, rgb(29,186,217) 20%, rgb(29,186,217) 80%, rgb(0,171,211) 100%);
+    background: url(../img/spp-bg-general.png) repeat, -webkit-linear-gradient(left,  rgb(0,171,211) 0%,rgb(29,186,217) 20%,rgb(29,186,217) 80%,rgb(0,171,211) 100%);
+    background: url(../img/spp-bg-general.png) repeat, linear-gradient(to right,  rgb(0,171,211) 0%,rgb(29,186,217) 20%,rgb(29,186,217) 80%,rgb(0,171,211) 100%) ;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00abd3', endColorstr='#00abd3',GradientType=1 );
 }
 .pilopaga .section_container {
@@ -22,19 +22,19 @@
     margin:2px 0px;
 }
 .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.facebook,.pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.facebook:hover{
-    background:url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/pilopaga-facebook-icon.png) no-repeat;
+    background:url(../img/pilopaga-facebook-icon.png) no-repeat;
 }
 .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.twitter,.pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.twitter:hover{
-    background:url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/pilopaga-twitter-icon.png) no-repeat;
+    background:url(../img/pilopaga-twitter-icon.png) no-repeat;
 }
 .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.rss,.pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.rss:hover{
-    background:url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/pilopaga-rss-icon.png) no-repeat;
+    background:url(../img/pilopaga-rss-icon.png) no-repeat;
 }
 .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.youtube,.pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.youtube:hover{
-    background:url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/pilopaga-youtube-icon.png) no-repeat;
+    background:url(../img/pilopaga-youtube-icon.png) no-repeat;
 }
 .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.flickr, .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.flickr:hover{
-    background:url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/pilopaga-flickr-icon.png) no-repeat;
+    background:url(../img/pilopaga-flickr-icon.png) no-repeat;
 }
 .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container  a.rss:hover, .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.twitter:hover, .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.facebook:hover,.pilopaga.wrapper .header_search .header_search_container .block-block .sns_container a.rss:hover,.pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.youtube:hover, .pilopaga .wrapper .header_search .header_search_container .block-block .sns_container a.flickr:hover{
     background-position:0 -24px;
@@ -72,7 +72,7 @@
 .pilopaga .pane-menu-menu-ser-pilo-paga ul li:first-child{
     border-left: 0px;
     color: rgba(255, 255, 255, 0);
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/icoserpilopagahead.png) no-repeat  center center / contain;
+    background: url(../img/icoserpilopagahead.png) no-repeat  center center / contain;
     background-position:center;
     width: 21%;
     margin: 0px;
@@ -108,7 +108,7 @@
     height: 58px;
     float: left;
     color: transparent;
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/control-previous.png) no-repeat;
+    background: url(../img/control-previous.png) no-repeat;
     color:transparent;
 }
 .pilopaga .pilopaga-slideshow .views-slideshow-controls-text-next{
@@ -117,7 +117,7 @@
     height: 58px;
     float: right;
     color: transparent;
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/control-next.png) no-repeat;
+    background: url(../img/control-next.png) no-repeat;
 }
 .pilopaga .pilopaga-slideshow .views-slideshow-controls-text-previous:hover,.pilopaga .pilopaga-slideshow .views-slideshow-controls-text-next:hover{
     background-position:-57px 0px;
@@ -169,20 +169,20 @@
 }
 
 .pilopaga .pilopaga-menu-secundario .view-content .views-row:first-child{
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/viewsrowfirst.png) no-repeat;
+    background: url(../img/viewsrowfirst.png) no-repeat;
     background-position: -4px 18px;
     padding-top: 30px;
 }
 .pilopaga .pilopaga-menu-secundario .view-content .views-row:nth-child(2){
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/viewsrowsecond.png) no-repeat;
+    background: url(../img/viewsrowsecond.png) no-repeat;
     background-position: -4px 18px;
 }
 .pilopaga .pilopaga-menu-secundario .view-content .views-row:nth-child(3){
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/viewsrowtird.png) no-repeat;
+    background: url(../img/viewsrowtird.png) no-repeat;
     background-position: -4px 15px;
 }
 .pilopaga .pilopaga-menu-secundario .view-content .views-row:last-child{
-    background: url(https://dl.dropboxusercontent.com/u/575652037/pilopaga/img/viewsrowfourth.png) no-repeat;
+    background: url(../img/viewsrowfourth.png) no-repeat;
     background-position: -4px 18px;
 }
 .pilopaga .pilopaga-menu-secundario .view-content .views-row:first-child:hover,.pilopaga .pilopaga-menu-secundario .view-content .views-row:nth-child(2):hover,.pilopaga .pilopaga-menu-secundario .view-content .views-row:last-child:hover{
@@ -265,7 +265,7 @@
     display: inline-block;
     width: 34px;
     height: 34px;
-    background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat;
+    background: url(../img/title-icons.png) no-repeat;
     background-position: -10px -12px;
     vertical-align: middle;
     margin: 0 10px;
@@ -287,15 +287,15 @@
 		display: block;
 }
 .pilopaga .spp-site-destacados .spp-btn .spp-btn-colombiaprende{
-	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-btn-colombiaprende.png) no-repeat center center / contain ,#00515F;
+	background: url(../img/spp-btn-colombiaprende.png) no-repeat center center / contain ,#00515F;
 	border: solid 6px #00515F;
 }
 .pilopaga .spp-site-destacados .spp-btn .spp-btn-chatpiloso{
-	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-btn-chatpiloso.png) no-repeat center center / contain,#1B978C;
+	background: url(../img/spp-btn-chatpiloso.png) no-repeat center center / contain,#1B978C;
 	border: solid 6px #1B978C;
 }
 .pilopaga .spp-site-destacados .spp-btn .spp-btn-pilotecav{
-	background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/spp-btn-piloteca.png) no-repeat center center / contain,#3C3F60;
+	background: url(../img/spp-btn-piloteca.png) no-repeat center center / contain,#3C3F60;
 	border: solid 6px #3C3F60;
 }
 .pilopaga .spp-video-destacados h2{
@@ -309,7 +309,7 @@
 		display: inline-block;
     width: 34px;
     height: 34px;
-    background: url(https://dl.dropboxusercontent.com/u/575652037/edu-pilo/img/title-icons.png) no-repeat;
+    background: url(../img/title-icons.png) no-repeat;
     background-position: -10px -60px;
     vertical-align: middle;
     margin: 0 10px;

@@ -227,6 +227,10 @@
 
 /*COMENTARIO*/
 
+.pilopaga .study-place {
+		padding: 15px;
+}
+
 .pilopaga .study-place .btn-warning {
 		background: #BABD51;
 		border: 1px solid #BABD51;
@@ -275,6 +279,7 @@
 		background: #BABD51;
 		color: white;
 		vertical-align: middle;
+		text-shadow: none;
 }
 
 .pilopaga .study-place dir-pagination-controls {
